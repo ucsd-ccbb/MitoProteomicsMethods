@@ -1,0 +1,499 @@
+Protein Group,Protein ID,Accession,Significance,Coverage (%),#Peptides,#Unique,PTM,Sample 1 Area,Sample 2 Area,Sample Profile (Ratio),A Area,B Area,Group Profile (Ratio),Avg. Mass,Description
+3,16,Q09073|ADT2_RAT,18.32,66,35,13,Carbamidomethylation; Acetylation (K); Acetylation (Protein N-term); Carbamylation; Deamidation (NQ); 8 more,4.84E8,2.52E7,1.90:0.10,4.84E8,2.52E7,1.90:0.10,32901,ADP/ATP translocase 2 OS=Rattus norvegicus GN=Slc25a5 PE=1 SV=3
+1,1,tr|G3V928|G3V928_RAT,16.73,26,91,91,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation; Hexose (NSY); 8 more,5.46E8,6.09E7,1.80:0.20,5.46E8,6.09E7,1.80:0.20,504892,Protein Lrp1 OS=Rattus norvegicus GN=Lrp1 PE=1 SV=1
+135,132,P62630|EF1A1_RAT,16.31,24,6,6,Carbamidomethylation; Acetylation (K); Carbamylation; Carboxylation (E); Oxidation (M),7.7E7,3.36E6,1.92:0.08,7.7E7,3.36E6,1.92:0.08,50114,Elongation factor 1-alpha 1 OS=Rattus norvegicus GN=Eef1a1 PE=2 SV=1
+228,202,Q64232|TECR_RAT,16.24,15,4,4,Carbamidomethylation; Formylation,5.22E7,0,2.00:0,5.22E7,0,2.00:0,36123,Very-long-chain enoyl-CoA reductase OS=Rattus norvegicus GN=Tecr PE=1 SV=1
+92,72,tr|D3ZT47|D3ZT47_RAT,16.14,14,8,8,Carbamidomethylation; Carbamylation,4.61E7,0,2.00:0,4.61E7,0,2.00:0,87420,Protein Fam171a2 OS=Rattus norvegicus GN=Fam171a2 PE=1 SV=2
+98,90,P16970|ABCD3_RAT,16.08,16,7,7,Carbamylation; Deamidation (NQ); Formylation,3.96E7,5.74E5,1.97:0.03,3.96E7,5.74E5,1.97:0.03,75316,ATP-binding cassette sub-family D member 3 OS=Rattus norvegicus GN=Abcd3 PE=1 SV=3
+118,128,Q925S8|YMEL1_RAT,15.98,16,7,7,Carbamidomethylation; Formylation; Pyro-glu from Q,3E7,0,2.00:0,3E7,0,2.00:0,79867,ATP-dependent zinc metalloprotease YME1L1 OS=Rattus norvegicus GN=Yme1l1 PE=2 SV=1
+19,29,P30427|PLEC_RAT,15.96,8,27,27,Pyro-glu from Q,3.9E7,4.91E6,1.78:0.22,3.9E7,4.91E6,1.78:0.22,533545,Plectin OS=Rattus norvegicus GN=Plec PE=1 SV=2
+82,62,tr|M0RC17|M0RC17_RAT,15.88,14,11,11,Carbamidomethylation; Methylation(others),5.32E7,2.29E6,1.92:0.08,5.32E7,2.29E6,1.92:0.08,135610,Protein Chl1 OS=Rattus norvegicus GN=Chl1 PE=1 SV=2
+76,66,Q811U3|RB6I2_RAT,15.75,13,10,7,Carbamidomethylation; Carbamylation; Formylation; Pyro-glu from Q,3.86E7,0,2.00:0,3.86E7,0,2.00:0,108818,ELKS/Rab6-interacting/CAST family member 1 OS=Rattus norvegicus GN=Erc1 PE=1 SV=1
+56,20,Q80WF4|T132A_RAT,15.64,23,14,14,Carbamidomethylation,5.79E7,2.75E6,1.91:0.09,5.79E7,2.75E6,1.91:0.09,110574,Transmembrane protein 132A OS=Rattus norvegicus GN=Tmem132a PE=1 SV=1
+46,53,P06686|AT1A2_RAT,15.61,16,11,4,Carbamidomethylation; Acetylation (K); Acetylation (N-term); Carbamylation; Deamidation (NQ); 3 more,3.92E7,4.86E6,1.78:0.22,3.92E7,4.86E6,1.78:0.22,112217,Sodium/potassium-transporting ATPase subunit alpha-2 OS=Rattus norvegicus GN=Atp1a2 PE=1 SV=1
+35,32,Q9QXY2|SRCN1_RAT,15.59,21,14,14,Formylation; Pyro-glu from Q,4.61E7,5.21E6,1.80:0.20,4.61E7,5.21E6,1.80:0.20,129744,SRC kinase signaling inhibitor 1 OS=Rattus norvegicus GN=Srcin1 PE=1 SV=1
+117,106,Q5FVH2|PLD3_RAT,15.56,16,5,5,Deamidation (NQ); Formylation,4.23E7,4.04E6,1.83:0.17,4.23E7,4.04E6,1.83:0.17,54399,Phospholipase D3 OS=Rattus norvegicus GN=Pld3 PE=2 SV=1
+327,273,tr|A0A0G2JVC2|A0A0G2JVC2_RAT,15.54,5,3,3,,1.88E7,0,2.00:0,1.88E7,0,2.00:0,103769,Protein Scyl2 OS=Rattus norvegicus GN=Scyl2 PE=1 SV=1
+34,35,P07153|RPN1_RAT,15.52,36,15,15,Formylation; Pyro-glu from Q; Carbamidomethylation,1.04E8,7.53E6,1.87:0.13,1.04E8,7.53E6,1.87:0.13,68304,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Rattus norvegicus GN=Rpn1 PE=2 SV=1
+136,143,tr|G3V7K5|G3V7K5_RAT,15.47,5,6,6,Carbamylation; Formylation,4.17E7,2.46E6,1.89:0.11,4.17E7,2.46E6,1.89:0.11,142950,Protein Npc1 OS=Rattus norvegicus GN=Npc1 PE=1 SV=1
+256,214,tr|B2RYD7|B2RYD7_RAT,15.45,3,3,3,,2.43E7,0,2.00:0,2.43E7,0,2.00:0,93436,Protein Stt3b OS=Rattus norvegicus GN=Stt3b PE=1 SV=1
+41,57,P63018|HSP7C_RAT,15.45,30,14,10,Carbamidomethylation; Deamidation (NQ); Dehydration; Formylation; Methylation(KR); Ammonia-loss (N),7.07E7,6.78E6,1.83:0.17,7.07E7,6.78E6,1.83:0.17,70871,Heat shock cognate 71 kDa protein OS=Rattus norvegicus GN=Hspa8 PE=1 SV=1
+115,103,P29457|SERPH_RAT,15.41,19,6,6,Formylation; Methylation(KR),3.64E7,2.13E6,1.89:0.11,3.64E7,2.13E6,1.89:0.11,46518,Serpin H1 OS=Rattus norvegicus GN=Serpinh1 PE=1 SV=1
+37,24,tr|F1LX07|F1LX07_RAT,15.38,31,14,14,Carbamidomethylation; Formylation,7.19E7,7.27E6,1.82:0.18,7.19E7,7.27E6,1.82:0.18,71917,Protein Slc25a12 OS=Rattus norvegicus GN=Slc25a12 PE=1 SV=3
+268,206,tr|D4ABI7|D4ABI7_RAT,15.34,9,2,2,,4.52E7,4.29E6,1.83:0.17,4.52E7,4.29E6,1.83:0.17,43104,Protein Hacd3 OS=Rattus norvegicus GN=Hacd3 PE=1 SV=2
+22,61,P31000|VIME_RAT,15.33,39,16,13,Carbamidomethylation; Acetylation (N-term); Carbamylation; Deamidation (NQ); Dehydration; 4 more,1.14E8,1.02E7,1.84:0.16,1.14E8,1.02E7,1.84:0.16,53733,Vimentin OS=Rattus norvegicus GN=Vim PE=1 SV=2
+60,54,Q9JHW1|CBPD_RAT,15.24,9,11,11,,4.27E7,4.97E6,1.79:0.21,4.27E7,4.97E6,1.79:0.21,152615,Carboxypeptidase D OS=Rattus norvegicus GN=Cpd PE=1 SV=2
+227,200,Q60587|ECHB_RAT,15.24,7,3,3,Dehydration; Methylation(KR),3.09E7,1.95E6,1.88:0.12,3.09E7,1.95E6,1.88:0.12,51414,Trifunctional enzyme subunit beta  mitochondrial OS=Rattus norvegicus GN=Hadhb PE=1 SV=1
+67,89,Q06647|ATPO_RAT,15.19,44,9,9,Formylation; Oxidation (M); Carbamylation; Deamidation (NQ),1.03E8,4.2E6,1.92:0.08,1.03E8,4.2E6,1.92:0.08,23398,ATP synthase subunit O  mitochondrial OS=Rattus norvegicus GN=Atp5o PE=1 SV=1
+375,345,P62986|RL40_RAT,15.17,20,2,2,,4.73E7,4.83E6,1.81:0.19,4.73E7,4.83E6,1.81:0.19,14728,Ubiquitin-60S ribosomal protein L40 OS=Rattus norvegicus GN=Uba52 PE=1 SV=2
+86,87,P07092|GDN_RAT,15.16,29,8,8,,3.69E7,3.22E6,1.84:0.16,3.69E7,3.22E6,1.84:0.16,44063,Glia-derived nexin OS=Rattus norvegicus GN=Serpine2 PE=1 SV=1
+101,71,P25235|RPN2_RAT,15.16,27,10,10,Pyro-glu from Q,1.84E7,2.05E6,1.80:0.20,1.84E7,2.05E6,1.80:0.20,69078,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 OS=Rattus norvegicus GN=Rpn2 PE=2 SV=2
+100,82,tr|A0A0G2JVZ6|A0A0G2JVZ6_RAT,15.12,9,6,6,Carbamidomethylation,2.69E7,1.98E6,1.86:0.14,2.69E7,1.98E6,1.86:0.14,115810,Protein Itgav OS=Rattus norvegicus GN=Itgav PE=1 SV=1
+133,108,Q3KRE0|ATAD3_RAT,15.10,14,6,6,Pyro-glu from Q,3.35E7,3.95E6,1.79:0.21,3.35E7,3.95E6,1.79:0.21,66759,ATPase family AAA domain-containing protein 3 OS=Rattus norvegicus GN=Atad3 PE=1 SV=1
+91,67,tr|A0A0G2K999|A0A0G2K999_RAT,15.10,6,9,9,Carbamidomethylation,2.68E7,1.95E6,1.86:0.14,2.68E7,1.95E6,1.86:0.14,239877,Protein Sdk2 OS=Rattus norvegicus GN=Sdk2 PE=1 SV=1
+102,102,Q99376|TFR1_RAT,15.07,9,5,5,Carbamylation; Formylation,2.27E7,8.99E5,1.92:0.08,2.27E7,8.99E5,1.92:0.08,70153,Transferrin receptor protein 1 (Fragment) OS=Rattus norvegicus GN=Tfrc PE=2 SV=1
+174,268,tr|D3Z9L0|D3Z9L0_RAT,15.04,12,3,3,,1.58E7,3.76E5,1.95:0.05,1.58E7,3.76E5,1.95:0.05,54259,Protein Agk OS=Rattus norvegicus GN=Agk PE=1 SV=2
+65,141,Q9EPH8|PABP1_RAT,15.02,9,4,4,Carbamidomethylation,1.83E7,1.2E6,1.88:0.12,1.83E7,1.2E6,1.88:0.12,70701,Polyadenylate-binding protein 1 OS=Rattus norvegicus GN=Pabpc1 PE=1 SV=1
+137,211,tr|B5DEG8|B5DEG8_RAT,14.91,5,4,4,Carbamidomethylation; Pyro-glu from Q,8.34E6,0,2.00:0,8.34E6,0,2.00:0,118524,LOC685144 protein OS=Rattus norvegicus GN=Sec24c PE=1 SV=1
+66,96,tr|B5DFC3|B5DFC3_RAT,14.89,14,7,4,Carbamidomethylation; Acetylation (Protein N-term); Carbamylation,2.35E7,1.78E6,1.86:0.14,2.35E7,1.78E6,1.86:0.14,86162,Protein Sec23a OS=Rattus norvegicus GN=Sec23a PE=1 SV=1
+179,181,P63079|GBRB3_RAT,14.55,17,7,4,,1.06E7,7.12E5,1.87:0.13,1.06E7,7.12E5,1.87:0.13,54166,Gamma-aminobutyric acid receptor subunit beta-3 OS=Rattus norvegicus GN=Gabrb3 PE=1 SV=1
+322,244,P13086|SUCA_RAT,14.55,10,2,2,Carbamidomethylation,2.3E7,0,2.00:0,2.3E7,0,2.00:0,36148,Succinate--CoA ligase [ADP/GDP-forming] subunit alpha  mitochondrial OS=Rattus norvegicus GN=Suclg1 PE=2 SV=2
+297,254,tr|A0A140TAA1|A0A140TAA1_RAT,14.54,8,3,3,,1.61E7,2.11E6,1.77:0.23,1.61E7,2.11E6,1.77:0.23,65067,Immunoglobulin superfamily  member 8  isoform CRA_b OS=Rattus norvegicus GN=Igsf8 PE=1 SV=1
+191,150,Q99J86|ATRN_RAT,14.52,2,3,3,Carbamidomethylation,1.76E7,1.48E6,1.84:0.16,1.76E7,1.48E6,1.84:0.16,158672,Attractin OS=Rattus norvegicus GN=Atrn PE=2 SV=1
+358,320,tr|D4ADS4|D4ADS4_RAT,14.48,18,2,2,,2.17E7,0,2.00:0,2.17E7,0,2.00:0,16733,Protein Mgst3 OS=Rattus norvegicus GN=Mgst3 PE=1 SV=1
+309,245,Q68FX9|SIR5_RAT,14.38,11,2,2,Carbamidomethylation,1.35E7,1.67E6,1.78:0.22,1.35E7,1.67E6,1.78:0.22,34098,NAD-dependent protein deacylase sirtuin-5  mitochondrial OS=Rattus norvegicus GN=Sirt5 PE=2 SV=1
+104,148,P60711|ACTB_RAT,14.23,35,9,5,Carbamidomethylation; Acetylation (Protein N-term); Carbamylation; Oxidation (M); Formylation,1.11E8,1.54E7,1.76:0.24,1.11E8,1.54E7,1.76:0.24,41737,Actin  cytoplasmic 1 OS=Rattus norvegicus GN=Actb PE=1 SV=1
+196,274,P84039|ENPP5_RAT,14.11,9,2,2,,1.06E7,0,2.00:0,1.06E7,0,2.00:0,54290,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5 OS=Rattus norvegicus GN=Enpp5 PE=1 SV=2
+315,414,P56574|IDHP_RAT,14.08,5,2,2,,6.34E6,5.98E5,1.83:0.17,6.34E6,5.98E5,1.83:0.17,50967,Isocitrate dehydrogenase [NADP]  mitochondrial OS=Rattus norvegicus GN=Idh2 PE=1 SV=2
+63,68,tr|Q6AYI1|Q6AYI1_RAT,14.04,19,9,6,Carbamidomethylation; Formylation,1.69E7,2.27E6,1.76:0.24,1.69E7,2.27E6,1.76:0.24,69239,DEAD (Asp-Glu-Ala-Asp) box polypeptide 5 OS=Rattus norvegicus GN=Ddx5 PE=1 SV=1
+252,233,O08835|SYT11_RAT,14.04,6,2,2,,9.19E6,0,2.00:0,9.19E6,0,2.00:0,48268,Synaptotagmin-11 OS=Rattus norvegicus GN=Syt11 PE=2 SV=2
+267,203,Q62867|GGH_RAT,14.00,5,2,2,,1.43E7,0,2.00:0,1.43E7,0,2.00:0,35830,Gamma-glutamyl hydrolase OS=Rattus norvegicus GN=Ggh PE=1 SV=1
+348,333,Q9EQV6|TPP1_RAT,13.98,6,2,2,,1.38E7,1.25E6,1.83:0.17,1.38E7,1.25E6,1.83:0.17,61332,Tripeptidyl-peptidase 1 OS=Rattus norvegicus GN=Tpp1 PE=1 SV=1
+305,423,Q6AYT3|RTCB_RAT,13.91,7,2,2,,6.8E6,0,2.00:0,6.8E6,0,2.00:0,55249,tRNA-splicing ligase RtcB homolog OS=Rattus norvegicus GN=Rtcb PE=2 SV=1
+298,265,P32551|QCR2_RAT,13.83,7,2,2,Carbamidomethylation,1.18E7,8.31E5,1.87:0.13,1.18E7,8.31E5,1.87:0.13,48396,Cytochrome b-c1 complex subunit 2  mitochondrial OS=Rattus norvegicus GN=Uqcrc2 PE=1 SV=2
+125,93,P18484|AP2A2_RAT,13.83,12,7,5,Carbamidomethylation; Pyro-glu from Q,1.54E7,1.32E6,1.84:0.16,1.54E7,1.32E6,1.84:0.16,104045,AP-2 complex subunit alpha-2 OS=Rattus norvegicus GN=Ap2a2 PE=1 SV=3
+224,279,P04218|OX2G_RAT,13.65,18,4,4,Carbamidomethylation; Formylation; Pyro-glu from Q,1.34E8,1.91E7,1.75:0.25,1.34E8,1.91E7,1.75:0.25,31088,OX-2 membrane glycoprotein OS=Rattus norvegicus GN=Cd200 PE=2 SV=1
+333,439,Q6P502|TCPG_RAT,13.61,3,2,2,,5.26E6,3.3E5,1.88:0.12,5.26E6,3.3E5,1.88:0.12,60647,T-complex protein 1 subunit gamma OS=Rattus norvegicus GN=Cct3 PE=1 SV=1
+185,152,tr|F1MA97|F1MA97_RAT,13.55,2,2,2,Carbamidomethylation,1.04E7,7.23E5,1.87:0.13,1.04E7,7.23E5,1.87:0.13,183515,Protein Thsd7a OS=Rattus norvegicus GN=Thsd7a PE=4 SV=3
+233,340,tr|B5DEZ8|B5DEZ8_RAT,13.49,5,2,2,,6.76E6,4.42E5,1.88:0.12,6.76E6,4.42E5,1.88:0.12,59417,Plexin domain containing 2 OS=Rattus norvegicus GN=Plxdc2 PE=1 SV=1
+183,176,P49134|ITB1_RAT,13.47,6,3,3,Formylation,4.75E7,6.9E6,1.75:0.25,4.75E7,6.9E6,1.75:0.25,88495,Integrin beta-1 OS=Rattus norvegicus GN=Itgb1 PE=2 SV=1
+363,415,tr|D3ZH36|D3ZH36_RAT,13.45,3,2,2,,4.66E6,1.8E5,1.93:0.07,4.66E6,1.8E5,1.93:0.07,89960,Protein Elfn2 OS=Rattus norvegicus GN=Elfn2 PE=1 SV=3
+30,34,Q68FR8|TBA3_RAT,13.40,45,13,1,Carbamidomethylation; Carbamylation; Formylation; Oxidation (M); Propionamide (K  X@N-term),9.53E6,1.11E6,1.79:0.21,9.53E6,1.11E6,1.79:0.21,49960,Tubulin alpha-3 chain OS=Rattus norvegicus GN=Tuba3a PE=2 SV=1
+177,165,Q9WV63|KIF2A_RAT,13.36,6,4,4,Formylation; Pyro-glu from Q,3.89E7,5.89E6,1.74:0.26,3.89E7,5.89E6,1.74:0.26,79792,Kinesin-like protein KIF2A OS=Rattus norvegicus GN=Kif2a PE=1 SV=2
+287,589,Q9QW30|NOTC2_RAT,13.32,0,1,1,,5.09E6,3.82E5,1.86:0.14,5.09E6,3.82E5,1.86:0.14,265368,Neurogenic locus notch homolog protein 2 OS=Rattus norvegicus GN=Notch2 PE=1 SV=1
+284,516,P26051|CD44_RAT,12.98,2,1,1,,6.6E6,8.69E5,1.77:0.23,6.6E6,8.69E5,1.77:0.23,55946,CD44 antigen OS=Rattus norvegicus GN=Cd44 PE=1 SV=2
+168,167,Q9JHY2|SFXN3_RAT,12.97,11,2,2,Carbamidomethylation,2.18E7,3.01E6,1.76:0.24,2.18E7,3.01E6,1.76:0.24,35433,Sideroflexin-3 OS=Rattus norvegicus GN=Sfxn3 PE=2 SV=1
+152,123,tr|D3ZT20|D3ZT20_RAT,12.77,10,6,6,Carbamidomethylation,2.15E7,3.12E6,1.75:0.25,2.15E7,3.12E6,1.75:0.25,93841,Protein Fbxo41 OS=Rattus norvegicus GN=Fbxo41 PE=1 SV=3
+144,147,P11507|AT2A2_RAT,12.60,8,6,6,Carbamidomethylation,1.77E7,2.77E6,1.73:0.27,1.77E7,2.77E6,1.73:0.27,114768,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 OS=Rattus norvegicus GN=Atp2a2 PE=1 SV=1
+107,190,tr|B2RYC9|B2RYC9_RAT,12.58,13,4,4,Carbamidomethylation,2.76E7,4.34E6,1.73:0.27,2.76E7,4.34E6,1.73:0.27,57492,Glucosylceramidase OS=Rattus norvegicus GN=Gba PE=1 SV=1
+176,140,tr|B1WC61|B1WC61_RAT,12.39,16,6,6,Carbamidomethylation,1.32E7,1.97E6,1.74:0.26,1.32E7,1.97E6,1.74:0.26,68843,Acad9 protein OS=Rattus norvegicus GN=Acad9 PE=1 SV=1
+208,170,P35439|NMDZ1_RAT,12.06,4,4,4,,2.37E7,4.15E6,1.70:0.30,2.37E7,4.15E6,1.70:0.30,105509,Glutamate receptor ionotropic  NMDA 1 OS=Rattus norvegicus GN=Grin1 PE=1 SV=1
+209,201,D3ZQG6|TRIM2_RAT,12.00,14,6,6,Carbamidomethylation; Acetylation (Protein N-term),1.73E7,2.69E6,1.73:0.27,1.73E7,2.69E6,1.73:0.27,81427,Tripartite motif-containing protein 2 OS=Rattus norvegicus GN=Trim2 PE=1 SV=2
+360,369,tr|F1LPJ1|F1LPJ1_RAT,11.98,2,2,2,Carbamidomethylation,5.63E6,8.07E5,1.75:0.25,5.63E6,8.07E5,1.75:0.25,167246,Protein Ptprm OS=Rattus norvegicus GN=Ptprm PE=4 SV=2
+344,670,Q810W7|MAST1_RAT,11.86,1,2,2,,2.32E6,3.34E5,1.75:0.25,2.32E6,3.34E5,1.75:0.25,171027,Microtubule-associated serine/threonine-protein kinase 1 OS=Rattus norvegicus GN=Mast1 PE=1 SV=1
+162,142,Q9WU82|CTNB1_RAT,11.79,6,4,4,,2.14E7,3.62E6,1.71:0.29,2.14E7,3.62E6,1.71:0.29,85455,Catenin beta-1 OS=Rattus norvegicus GN=Ctnnb1 PE=1 SV=1
+230,227,P97829|CD47_RAT,11.76,8,2,2,Carbamylation,2.5E7,2.84E6,1.80:0.20,2.5E7,2.84E6,1.80:0.20,32995,Leukocyte surface antigen CD47 OS=Rattus norvegicus GN=Cd47 PE=1 SV=1
+70,58,tr|D3Z9D0|D3Z9D0_RAT,11.67,9,10,10,Carbamylation; Phosphorylation (STY),2.65E7,4.44E6,1.71:0.29,2.65E7,4.44E6,1.71:0.29,201944,Protein RGD1306271 OS=Rattus norvegicus GN=RGD1306271 PE=1 SV=3
+173,187,tr|A0A0G2K2B5|A0A0G2K2B5_RAT,11.60,13,7,7,,1.02E7,1.7E6,1.71:0.29,1.02E7,1.7E6,1.71:0.29,89525,Protein Asph OS=Rattus norvegicus GN=Asph PE=1 SV=1
+53,75,P0CC10|LRC4B_RAT,11.57,17,10,10,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation,8.71E7,1.57E7,1.70:0.30,8.71E7,1.57E7,1.70:0.30,76119,Leucine-rich repeat-containing protein 4B OS=Rattus norvegicus GN=Lrrc4b PE=1 SV=1
+236,168,tr|F1M6P8|F1M6P8_RAT,11.48,11,4,4,Carbamidomethylation,1.96E7,3.49E6,1.70:0.30,1.96E7,3.49E6,1.70:0.30,53777,Protein Edil3 OS=Rattus norvegicus GN=Edil3 PE=4 SV=3
+149,119,P0C7J6|LRFN1_RAT,11.44,13,7,6,Carbamidomethylation,2.7E7,4.57E6,1.71:0.29,2.7E7,4.57E6,1.71:0.29,81970,Leucine-rich repeat and fibronectin type III domain-containing protein 1 OS=Rattus norvegicus GN=Lrfn1 PE=1 SV=1
+88,100,P97700|M2OM_RAT,11.42,30,8,8,Deamidation (NQ); Oxidation (M),6.74E7,1.22E7,1.69:0.31,6.74E7,1.22E7,1.69:0.31,34252,Mitochondrial 2-oxoglutarate/malate carrier protein OS=Rattus norvegicus GN=Slc25a11 PE=1 SV=3
+477,539,P23576|GBRA2_RAT,11.37,3,1,1,,6.57E6,9.92E5,1.74:0.26,6.57E6,9.92E5,1.74:0.26,51182,Gamma-aminobutyric acid receptor subunit alpha-2 OS=Rattus norvegicus GN=Gabra2 PE=3 SV=1
+143,114,Q03348|PTPRA_RAT,11.28,6,3,3,,2.41E7,4.38E6,1.69:0.31,2.41E7,4.38E6,1.69:0.31,90261,Receptor-type tyrosine-protein phosphatase alpha OS=Rattus norvegicus GN=Ptpra PE=1 SV=1
+364,437,tr|M0R9U3|M0R9U3_RAT,11.26,2,2,2,Carbamidomethylation,8.76E6,1.42E6,1.72:0.28,8.76E6,1.42E6,1.72:0.28,107304,Protein Slitrk5 OS=Rattus norvegicus GN=Slitrk5 PE=4 SV=1
+75,85,P62909|RS3_RAT,11.14,35,9,3,Formylation; Carbamidomethylation; Formylation (Protein N-term),5.91E7,1.14E7,1.68:0.32,5.91E7,1.14E7,1.68:0.32,26674,40S ribosomal protein S3 OS=Rattus norvegicus GN=Rps3 PE=1 SV=1
+352,435,tr|B1H282|B1H282_RAT,11.08,4,3,3,,1.03E7,5.05E5,1.91:0.09,1.03E7,5.05E5,1.91:0.09,71115,Glycosyltransferase 25 domain containing 1 OS=Rattus norvegicus GN=Colgalt1 PE=1 SV=1
+175,107,P29147|BDH_RAT,11.04,23,6,6,Carbamidomethylation,3.25E7,5.75E6,1.70:0.30,3.25E7,5.75E6,1.70:0.30,38202,D-beta-hydroxybutyrate dehydrogenase  mitochondrial OS=Rattus norvegicus GN=Bdh1 PE=1 SV=2
+95,212,tr|D3ZFQ8|D3ZFQ8_RAT,10.90,18,4,4,Carbamidomethylation,3.24E7,5.84E6,1.69:0.31,3.24E7,5.84E6,1.69:0.31,35435,Cytochrome c-1 (Predicted)  isoform CRA_c OS=Rattus norvegicus GN=Cyc1 PE=1 SV=3
+126,156,P08413|KCC2B_RAT,10.67,16,5,3,Carbamidomethylation; Carbamylation,1.56E7,2.92E6,1.68:0.32,1.56E7,2.92E6,1.68:0.32,60402,Calcium/calmodulin-dependent protein kinase type II subunit beta OS=Rattus norvegicus GN=Camk2b PE=1 SV=1
+257,220,P62804|H4_RAT,10.49,21,2,2,,2.68E7,4.28E6,1.72:0.28,2.68E7,4.28E6,1.72:0.28,11367,Histone H4 OS=Rattus norvegicus GN=Hist1h4b PE=1 SV=2
+262,347,P17046|LAMP2_RAT,10.35,2,1,1,,6.03E7,7.47E6,1.78:0.22,6.03E7,7.47E6,1.78:0.22,45164,Lysosome-associated membrane glycoprotein 2 OS=Rattus norvegicus GN=Lamp2 PE=1 SV=2
+463,798,Q80ZF0|CORA1_RAT,10.31,1,1,1,,3.45E7,0,2.00:0,3.45E7,0,2.00:0,187810,Collagen alpha-1(XXVII) chain OS=Rattus norvegicus GN=Col27a1 PE=2 SV=1
+290,370,tr|M0R5P8|M0R5P8_RAT,10.30,3,2,2,,1E7,1.7E6,1.71:0.29,1E7,1.7E6,1.71:0.29,85695,Protein Adam22 OS=Rattus norvegicus GN=Adam22 PE=1 SV=2
+462,796,tr|D3ZPU4|D3ZPU4_RAT,10.28,1,1,1,,2.76E7,0,2.00:0,2.76E7,0,2.00:0,173035,Protein Ercc6l2 OS=Rattus norvegicus GN=Ercc6l2 PE=4 SV=2
+467,859,tr|D3ZKC6|D3ZKC6_RAT,10.28,0,1,1,,2.44E7,0,2.00:0,2.44E7,0,2.00:0,488962,Protein Vps13d OS=Rattus norvegicus GN=Vps13d PE=1 SV=1
+373,341,P62250|RS16_RAT,10.26,8,1,1,,1.86E7,0,2.00:0,1.86E7,0,2.00:0,16445,40S ribosomal protein S16 OS=Rattus norvegicus GN=Rps16 PE=1 SV=2
+132,530,D3ZAF6|ATPK_RAT,10.25,14,1,1,,1.84E7,0,2.00:0,1.84E7,0,2.00:0,10452,ATP synthase subunit f  mitochondrial OS=Rattus norvegicus GN=Atp5j2 PE=1 SV=1
+308,652,P19511|AT5F1_RAT,10.24,4,1,1,,1.84E7,2.23E6,1.78:0.22,1.84E7,2.23E6,1.78:0.22,28869,ATP synthase F(0) complex subunit B1  mitochondrial OS=Rattus norvegicus GN=Atp5f1 PE=1 SV=1
+39,578,P97546|NPTN_RAT,10.24,3,1,1,,2.12E7,0,2.00:0,2.12E7,0,2.00:0,43932,Neuroplastin OS=Rattus norvegicus GN=Nptn PE=1 SV=2
+325,260,Q8CFD0|SFXN5_RAT,10.23,15,3,3,Carbamidomethylation,1.45E7,2.72E6,1.68:0.32,1.45E7,2.72E6,1.68:0.32,37304,Sideroflexin-5 OS=Rattus norvegicus GN=Sfxn5 PE=2 SV=1
+374,342,P07340|AT1B1_RAT,10.23,5,1,1,,1.33E7,0,2.00:0,1.33E7,0,2.00:0,35202,Sodium/potassium-transporting ATPase subunit beta-1 OS=Rattus norvegicus GN=Atp1b1 PE=1 SV=1
+425,478,P13638|AT1B2_RAT,10.23,2,1,1,,1.67E7,0,2.00:0,1.67E7,0,2.00:0,33412,Sodium/potassium-transporting ATPase subunit beta-2 OS=Rattus norvegicus GN=Atp1b2 PE=2 SV=1
+154,134,tr|D3ZTL0|D3ZTL0_RAT,10.22,3,3,3,Carbamidomethylation,2.03E7,4.03E6,1.67:0.33,2.03E7,4.03E6,1.67:0.33,121851,Protein Tcerg1 OS=Rattus norvegicus GN=Tcerg1 PE=1 SV=1
+377,360,tr|M0R5K9|M0R5K9_RAT,10.22,11,2,1,,1.31E7,0,2.00:0,1.31E7,0,2.00:0,17655,Protein LOC100912024 OS=Rattus norvegicus GN=LOC100912024 PE=3 SV=1
+80,637,Q4V887|S39A6_RAT,10.21,1,1,1,,1.68E7,0,2.00:0,1.68E7,0,2.00:0,83231,Zinc transporter ZIP6 OS=Rattus norvegicus GN=Slc39a6 PE=1 SV=1
+285,529,Q7TQ16|QCR8_RAT,10.17,16,1,1,,1.03E7,0,2.00:0,1.03E7,0,2.00:0,9849,Cytochrome b-c1 complex subunit 8 OS=Rattus norvegicus GN=Uqcrq PE=3 SV=1
+200,555,tr|F1LW77|F1LW77_RAT,10.17,5,1,1,,1.19E7,0,2.00:0,1.19E7,0,2.00:0,25753,Protein Rab33b OS=Rattus norvegicus GN=Rab33b PE=1 SV=2
+264,444,Q6IFW6|K1C10_RAT,10.16,2,1,1,,9.57E6,0,2.00:0,9.57E6,0,2.00:0,56505,Keratin  type I cytoskeletal 10 OS=Rattus norvegicus GN=Krt10 PE=3 SV=1
+481,586,P70500|CDIPT_RAT,10.16,6,1,1,,7.64E6,0,2.00:0,7.64E6,0,2.00:0,23613,CDP-diacylglycerol--inositol 3-phosphatidyltransferase OS=Rattus norvegicus GN=Cdipt PE=1 SV=1
+413,7255,tr|A0A0G2K654|A0A0G2K654_RAT,10.14,6,1,1,,0,7.67E6,0:2.00,0,7.67E6,0:2.00,21317,Protein Hist1h1c OS=Rattus norvegicus GN=Hist1h1c PE=1 SV=1
+519,945,Q9JM53|AIFM1_RAT,10.14,1,1,1,,6.82E6,0,2.00:0,6.82E6,0,2.00:0,66723,Apoptosis-inducing factor 1  mitochondrial OS=Rattus norvegicus GN=Aifm1 PE=1 SV=1
+506,916,tr|A0A1B0GWW0|A0A1B0GWW0_RAT,10.13,1,1,1,,2.1E7,0,2.00:0,2.1E7,0,2.00:0,110462,Protein Ube3c (Fragment) OS=Rattus norvegicus GN=Ube3c PE=4 SV=1
+355,665,tr|A0A0G2K782|A0A0G2K782_RAT,10.13,2,1,1,,1.54E7,0,2.00:0,1.54E7,0,2.00:0,35219,Protein Zc2hc1a OS=Rattus norvegicus GN=Zc2hc1a PE=1 SV=1
+302,338,P62083|RS7_RAT,10.13,6,1,1,,0,5.82E6,0:2.00,0,5.82E6,0:2.00,22127,40S ribosomal protein S7 OS=Rattus norvegicus GN=Rps7 PE=1 SV=1
+502,858,Q3T1J8|RTF2_RAT,10.12,4,1,1,,6.17E6,0,2.00:0,6.17E6,0,2.00:0,33812,Protein RTF2 homolog OS=Rattus norvegicus GN=Rtfdc1 PE=2 SV=1
+343,464,tr|A0A0G2K5E4|A0A0G2K5E4_RAT,10.10,3,1,1,,5.06E6,0,2.00:0,5.06E6,0,2.00:0,52403,Protein Dnaja3 OS=Rattus norvegicus GN=Dnaja3 PE=1 SV=1
+330,359,O35112|CD166_RAT,10.10,2,1,1,,4.93E6,0,2.00:0,4.93E6,0,2.00:0,65022,CD166 antigen OS=Rattus norvegicus GN=Alcam PE=1 SV=1
+420,481,tr|F1MAA7|F1MAA7_RAT,10.10,1,1,1,,4.63E6,0,2.00:0,4.63E6,0,2.00:0,177386,Protein Lamc1 OS=Rattus norvegicus GN=Lamc1 PE=1 SV=1
+367,461,Q66HA6|ARL8B_RAT,10.09,12,1,1,,3.93E6,0,2.00:0,3.93E6,0,2.00:0,21539,ADP-ribosylation factor-like protein 8B OS=Rattus norvegicus GN=Arl8b PE=2 SV=1
+159,654,tr|M0R868|M0R868_RAT,10.08,2,1,1,,4.19E6,0,2.00:0,4.19E6,0,2.00:0,57842,Sulfotransferase OS=Rattus norvegicus GN=Chst2 PE=3 SV=1
+371,664,B0BNK7|LRFN3_RAT,10.08,3,1,1,Carbamidomethylation,3.47E6,0,2.00:0,3.47E6,0,2.00:0,66068,Leucine-rich repeat and fibronectin type-III domain-containing protein 3 OS=Rattus norvegicus GN=Lrfn3 PE=1 SV=1
+454,708,P28572|SC6A9_RAT,10.07,3,1,1,,3.81E6,0,2.00:0,3.81E6,0,2.00:0,71061,Sodium- and chloride-dependent glycine transporter 1 OS=Rattus norvegicus GN=Slc6a9 PE=1 SV=2
+120,726,tr|A0A0G2KAE2|A0A0G2KAE2_RAT,10.07,3,1,1,,1.09E7,0,2.00:0,1.09E7,0,2.00:0,39623,Protein Tusc3 OS=Rattus norvegicus GN=Tusc3 PE=1 SV=1
+498,782,tr|E9PTG5|E9PTG5_RAT,10.07,1,1,1,,3.76E6,0,2.00:0,3.76E6,0,2.00:0,145587,Protein Plekha5 OS=Rattus norvegicus GN=Plekha5 PE=1 SV=2
+394,590,Q10728|MYPT1_RAT,10.07,1,1,1,,2.77E6,0,2.00:0,2.77E6,0,2.00:0,115283,Protein phosphatase 1 regulatory subunit 12A OS=Rattus norvegicus GN=Ppp1r12a PE=1 SV=2
+482,587,Q568Y7|NOE2_RAT,10.06,2,1,1,,2.98E6,0,2.00:0,2.98E6,0,2.00:0,53870,Noelin-2 OS=Rattus norvegicus GN=Olfm2 PE=1 SV=1
+522,943,tr|D4A589|D4A589_RAT,10.06,1,1,1,,2.64E6,0,2.00:0,2.64E6,0,2.00:0,160430,Protein Smg6 OS=Rattus norvegicus GN=Smg6 PE=1 SV=4
+493,722,tr|Q76GL9|Q76GL9_RAT,10.06,2,1,1,,2.75E6,0,2.00:0,2.75E6,0,2.00:0,55900,Amino acid transporter OS=Rattus norvegicus GN=Slc1a4 PE=1 SV=1
+427,489,P55068|PGCB_RAT,10.06,2,1,1,Carbamidomethylation,3.01E6,0,2.00:0,3.01E6,0,2.00:0,96057,Brevican core protein OS=Rattus norvegicus GN=Bcan PE=1 SV=2
+385,428,tr|D3ZT36|D3ZT36_RAT,10.05,1,1,1,Carbamidomethylation,3.42E6,0,2.00:0,3.42E6,0,2.00:0,91477,Protein Adam23 OS=Rattus norvegicus GN=Adam23 PE=4 SV=1
+505,888,Q3B7T9|RFIP1_RAT,10.05,2,1,1,,2.93E6,0,2.00:0,2.93E6,0,2.00:0,71144,Rab11 family-interacting protein 1 OS=Rattus norvegicus GN=Rab11fip1 PE=1 SV=1
+432,636,tr|D4A507|D4A507_RAT,10.05,2,1,1,,2.58E6,0,2.00:0,2.58E6,0,2.00:0,59587,Protein Clip3 OS=Rattus norvegicus GN=Clip3 PE=1 SV=1
+480,573,Q9ESI7|DCX_RAT,10.04,3,1,1,,2.24E6,0,2.00:0,2.24E6,0,2.00:0,40560,Neuronal migration protein doublecortin OS=Rattus norvegicus GN=Dcx PE=1 SV=2
+396,600,tr|F1MA00|F1MA00_RAT,10.04,7,1,1,,2.36E6,0,2.00:0,2.36E6,0,2.00:0,15583,Uncharacterized protein OS=Rattus norvegicus PE=3 SV=2
+400,631,Q80WD0|R4RL1_RAT,10.04,3,1,1,,2.08E6,0,2.00:0,2.08E6,0,2.00:0,49775,Reticulon-4 receptor-like 1 OS=Rattus norvegicus GN=Rtn4rl1 PE=2 SV=1
+402,650,Q9JI66|S4A4_RAT,10.04,1,1,1,,2.39E6,0,2.00:0,2.39E6,0,2.00:0,121343,Electrogenic sodium bicarbonate cotransporter 1 OS=Rattus norvegicus GN=Slc4a4 PE=1 SV=1
+307,443,Q6IG01|K2C1B_RAT,10.03,4,2,1,,0,1.88E6,0:2.00,0,1.88E6,0:2.00,57255,Keratin  type II cytoskeletal 1b OS=Rattus norvegicus GN=Krt77 PE=3 SV=1
+407,716,Q9ESQ7|PSD1_RAT,10.03,1,1,1,,1.81E6,0,2.00:0,1.81E6,0,2.00:0,70818,PH and SEC7 domain-containing protein 1 OS=Rattus norvegicus GN=Psd PE=1 SV=1
+455,714,tr|D3ZWW5|D3ZWW5_RAT,10.02,2,1,1,,1.9E6,0,2.00:0,1.9E6,0,2.00:0,62684,Protein Slc30a9 OS=Rattus norvegicus GN=Slc30a9 PE=1 SV=1
+406,712,P62024|PHAR1_RAT,10.02,2,1,1,,1.64E6,0,2.00:0,1.64E6,0,2.00:0,66216,Phosphatase and actin regulator 1 OS=Rattus norvegicus GN=Phactr1 PE=1 SV=1
+203,195,Q9JIH7|WNK1_RAT,10.01,2,3,2,,8.55E6,1.4E6,1.72:0.28,8.55E6,1.4E6,1.72:0.28,225110,Serine/threonine-protein kinase WNK1 OS=Rattus norvegicus GN=Wnk1 PE=1 SV=2
+128,272,P31422|GRM3_RAT,10.01,1,1,1,,1.64E6,0,2.00:0,1.64E6,0,2.00:0,98960,Metabotropic glutamate receptor 3 OS=Rattus norvegicus GN=Grm3 PE=1 SV=1
+500,803,tr|A0A0G2JYG9|A0A0G2JYG9_RAT,10.00,5,1,1,,1.76E6,0,2.00:0,1.76E6,0,2.00:0,23077,60S ribosomal protein L13 OS=Rattus norvegicus PE=3 SV=1
+459,773,tr|D3ZT90|D3ZT90_RAT,9.99,2,1,1,,1.71E6,0,2.00:0,1.71E6,0,2.00:0,49713,Glutaryl-Coenzyme A dehydrogenase (Predicted) OS=Rattus norvegicus GN=Gcdh PE=1 SV=1
+442,492,P07308|ACOD1_RAT,9.98,4,1,1,,1.23E6,0,2.00:0,1.23E6,0,2.00:0,41467,Acyl-CoA desaturase 1 OS=Rattus norvegicus GN=Scd1 PE=1 SV=2
+172,182,D4A1J9|LRFN5_RAT,9.98,8,4,3,Carbamidomethylation,1.5E7,3.05E6,1.66:0.34,1.5E7,3.05E6,1.66:0.34,79339,Leucine-rich repeat and fibronectin type-III domain-containing protein 5 OS=Rattus norvegicus GN=Lrfn5 PE=1 SV=1
+386,438,Q62918|NELL2_RAT,9.98,2,1,1,,1.37E6,0,2.00:0,1.37E6,0,2.00:0,90953,Protein kinase C-binding protein NELL2 OS=Rattus norvegicus GN=Nell2 PE=2 SV=1
+188,173,tr|F1M4J1|F1M4J1_RAT,9.97,3,2,2,,7.22E6,1.26E6,1.70:0.30,7.22E6,1.26E6,1.70:0.30,115525,Protein LOC100294508 OS=Rattus norvegicus GN=LOC100294508 PE=1 SV=2
+444,626,tr|D4AD70|D4AD70_RAT,9.97,17,1,1,,1.01E6,0,2.00:0,1.01E6,0,2.00:0,8246,Protein RGD1561636 OS=Rattus norvegicus GN=RGD1561636 PE=3 SV=1
+199,346,tr|D3ZRN3|D3ZRN3_RAT,9.97,11,3,1,Oxidation (M); Formylation,0,8.99E5,0:2.00,0,8.99E5,0:2.00,41963,Protein Actbl2 OS=Rattus norvegicus GN=Actbl2 PE=1 SV=1
+499,792,tr|A0A0G2KB67|A0A0G2KB67_RAT,9.97,3,1,1,,9.41E5,0,2.00:0,9.41E5,0,2.00:0,41904,Protein Acpt OS=Rattus norvegicus GN=Acpt PE=3 SV=1
+131,210,P62703|RS4X_RAT,9.95,26,6,6,Carbamidomethylation,3.64E7,7.74E6,1.65:0.35,3.64E7,7.74E6,1.65:0.35,29598,40S ribosomal protein S4  X isoform OS=Rattus norvegicus GN=Rps4x PE=2 SV=2
+513,7286,P35400|GRM7_RAT,9.95,2,1,1,,0,7.32E5,0:2.00,0,7.32E5,0:2.00,102232,Metabotropic glutamate receptor 7 OS=Rattus norvegicus GN=Grm7 PE=1 SV=1
+395,599,P12839|NFM_RAT,9.95,3,3,1,Acetylation (N-term); Deamidation (NQ); Formylation; Carboxylation (E),0,6.97E5,0:2.00,0,6.97E5,0:2.00,95791,Neurofilament medium polypeptide OS=Rattus norvegicus GN=Nefm PE=1 SV=4
+441,7384,tr|A0A0G2K9J0|A0A0G2K9J0_RAT,9.92,0,1,1,,0,4.78E5,0:2.00,0,4.78E5,0:2.00,229011,Protein Tanc2 OS=Rattus norvegicus GN=Tanc2 PE=1 SV=1
+456,734,tr|D3ZG43|D3ZG43_RAT,9.91,4,1,1,,5.43E5,0,2.00:0,5.43E5,0,2.00:0,30226,NADH dehydrogenase (Ubiquinone) Fe-S protein 3 (Predicted)  isoform CRA_c OS=Rattus norvegicus GN=Ndufs3 PE=1 SV=1
+342,411,Q63604|NTRK2_RAT,9.90,4,2,2,Carbamidomethylation,1.94E7,3.74E6,1.68:0.32,1.94E7,3.74E6,1.68:0.32,92186,BDNF/NT-3 growth factors receptor OS=Rattus norvegicus GN=Ntrk2 PE=1 SV=1
+422,2862,tr|F1M1R4|F1M1R4_RAT,9.85,1,1,1,,0,1.75E5,0:2.00,0,1.75E5,0:2.00,118683,Protein Rbm27 OS=Rattus norvegicus GN=Rbm27 PE=1 SV=2
+150,276,B2DD29|BRSK1_RAT,9.71,7,3,3,,1.17E7,2.45E6,1.65:0.35,1.17E7,2.45E6,1.65:0.35,85183,Serine/threonine-protein kinase BRSK1 OS=Rattus norvegicus GN=Brsk1 PE=1 SV=1
+141,122,P62944|AP2B1_RAT,9.67,7,5,5,,5.42E7,8.66E6,1.72:0.28,5.42E7,8.66E6,1.72:0.28,104553,AP-2 complex subunit beta OS=Rattus norvegicus GN=Ap2b1 PE=1 SV=1
+433,657,P97527|CNTN5_RAT,9.62,1,1,1,,2.41E6,3.2E5,1.77:0.23,2.41E6,3.2E5,1.77:0.23,120603,Contactin-5 OS=Rattus norvegicus GN=Cntn5 PE=1 SV=1
+478,562,tr|Q5U302|Q5U302_RAT,9.62,2,1,1,,1.61E6,1.2E7,0.24:1.76,1.61E6,1.2E7,0.24:1.76,100236,Catenin (Cadherin associated protein)  alpha 1 OS=Rattus norvegicus GN=Ctnna1 PE=1 SV=1
+90,101,Q62889|NLGN3_RAT,9.56,19,8,7,Carbamidomethylation; Formylation,3.29E7,6.94E6,1.65:0.35,3.29E7,6.94E6,1.65:0.35,93888,Neuroligin-3 OS=Rattus norvegicus GN=Nlgn3 PE=1 SV=1
+242,302,tr|M0R6L4|M0R6L4_RAT,9.54,5,1,1,Carbamidomethylation,5.27E6,7.12E5,1.76:0.24,5.27E6,7.12E5,1.76:0.24,29908,40S ribosomal protein S3a OS=Rattus norvegicus GN=LOC100365839 PE=3 SV=1
+116,136,tr|M0RAP5|M0RAP5_RAT,9.50,8,8,8,Carbamidomethylation,1.48E7,2.98E6,1.66:0.34,1.48E7,2.98E6,1.66:0.34,211405,Protein Sbf1 OS=Rattus norvegicus GN=Sbf1 PE=1 SV=1
+359,335,P61206|ARF3_RAT,9.41,17,2,2,,7.21E6,1.39E6,1.68:0.32,7.21E6,1.39E6,1.68:0.32,20601,ADP-ribosylation factor 3 OS=Rattus norvegicus GN=Arf3 PE=2 SV=2
+389,514,Q6AZ61|LMBD1_RAT,9.41,3,1,1,,1.63E7,2.29E6,1.75:0.25,1.63E7,2.29E6,1.75:0.25,61018,Probable lysosomal cobalamin transporter OS=Rattus norvegicus GN=Lmbrd1 PE=1 SV=1
+453,693,P54287|CACB3_RAT,9.39,2,1,1,,1.25E6,1.71E5,1.76:0.24,1.25E6,1.71E5,1.76:0.24,54564,Voltage-dependent L-type calcium channel subunit beta-3 OS=Rattus norvegicus GN=Cacnb3 PE=1 SV=1
+504,875,tr|E9PSQ0|E9PSQ0_RAT,9.37,0,1,1,,2.16E6,2.97E5,1.76:0.24,2.16E6,2.97E5,1.76:0.24,276255,Protein Acacb OS=Rattus norvegicus GN=Acacb PE=1 SV=2
+111,94,P97685|NFASC_RAT,9.33,7,7,7,Carbamidomethylation,1.88E7,4.16E6,1.64:0.36,1.88E7,4.16E6,1.64:0.36,138004,Neurofascin OS=Rattus norvegicus GN=Nfasc PE=1 SV=2
+434,676,Q9Z0J8|NEGR1_RAT,9.28,4,1,1,,1.57E6,2.17E5,1.76:0.24,1.57E6,2.17E5,1.76:0.24,37858,Neuronal growth regulator 1 OS=Rattus norvegicus GN=Negr1 PE=1 SV=1
+11,14,tr|B4F7C2|B4F7C2_RAT,9.20,61,22,2,Carbamidomethylation; Acetylation (N-term); Carbamylation; Deamidation (NQ); Formylation; Oxidation (M),5.95E6,1.16E6,1.67:0.33,5.95E6,1.16E6,1.67:0.33,49586,Tubulin beta chain OS=Rattus norvegicus GN=Tubb4a PE=1 SV=1
+97,46,Q4V8I7|LRC8A_RAT,9.13,11,7,7,Carbamidomethylation,1.58E7,3.53E6,1.64:0.36,1.58E7,3.53E6,1.64:0.36,94162,Volume-regulated anion channel subunit LRRC8A OS=Rattus norvegicus GN=Lrrc8a PE=1 SV=1
+518,928,tr|M0R9L0|M0R9L0_RAT,9.10,1,1,1,,1.67E6,2.37E5,1.75:0.25,1.67E6,2.37E5,1.75:0.25,220194,Protein Naca OS=Rattus norvegicus GN=Naca PE=1 SV=1
+10,10,tr|D3ZES7|D3ZES7_RAT,9.09,22,33,25,Carbamidomethylation; Carbamylation; Formylation; Pyro-glu from Q,4.47E7,1.01E7,1.63:0.37,4.47E7,1.01E7,1.63:0.37,212610,Protein Plxna4 OS=Rattus norvegicus GN=Plxna4 PE=4 SV=1
+372,377,Q5U316|RAB35_RAT,9.08,5,1,1,,4.81E6,6.95E5,1.75:0.25,4.81E6,6.95E5,1.75:0.25,23025,Ras-related protein Rab-35 OS=Rattus norvegicus GN=Rab35 PE=1 SV=1
+393,564,P28480|TCPA_RAT,8.98,2,1,1,,2.9E6,4.24E5,1.74:0.26,2.9E6,4.24E5,1.74:0.26,60360,T-complex protein 1 subunit alpha OS=Rattus norvegicus GN=Tcp1 PE=1 SV=1
+71,42,tr|A0A0G2K8S6|A0A0G2K8S6_RAT,8.97,17,10,10,Carbamylation; Oxidation (M),4.63E7,1.05E7,1.63:0.37,4.63E7,1.05E7,1.63:0.37,91963,Glucosidase 1 OS=Rattus norvegicus GN=LOC103692171 PE=1 SV=1
+211,232,tr|D3ZHG3|D3ZHG3_RAT,8.93,11,5,5,Carbamidomethylation; Deamidation (NQ); Dehydration,3.02E7,6.74E6,1.63:0.37,3.02E7,6.74E6,1.63:0.37,86264,Protein Ptk7 OS=Rattus norvegicus GN=Ptk7 PE=1 SV=3
+165,209,Q8K3M6|ERC2_RAT,8.87,4,4,1,Formylation; Pyro-glu from Q,3.22E6,4.79E5,1.74:0.26,3.22E6,4.79E5,1.74:0.26,110618,ERC protein 2 OS=Rattus norvegicus GN=Erc2 PE=1 SV=1
+189,146,Q62786|FPRP_RAT,8.86,6,4,4,,2.31E7,5.5E6,1.61:0.39,2.31E7,5.5E6,1.61:0.39,98731,Prostaglandin F2 receptor negative regulator OS=Rattus norvegicus GN=Ptgfrn PE=1 SV=1
+437,791,Q05546|TENR_RAT,8.78,1,1,1,,2.08E6,3.11E5,1.74:0.26,2.08E6,3.11E5,1.74:0.26,149371,Tenascin-R OS=Rattus norvegicus GN=Tnr PE=1 SV=1
+424,470,tr|D3ZBM3|D3ZBM3_RAT,8.74,5,1,1,Carbamidomethylation,3.57E6,5.39E5,1.74:0.26,3.57E6,5.39E5,1.74:0.26,47552,Ferrochelatase OS=Rattus norvegicus GN=Fech PE=1 SV=1
+50,63,Q63374|NRX2A_RAT,8.72,9,12,10,Carbamidomethylation; Deamidation (NQ); Formylation,3.93E7,9.23E6,1.62:0.38,3.93E7,9.23E6,1.62:0.38,185168,Neurexin-2 OS=Rattus norvegicus GN=Nrxn2 PE=1 SV=3
+448,663,Q63633|S12A5_RAT,8.71,2,1,1,,1.77E6,2.67E5,1.74:0.26,1.77E6,2.67E5,1.74:0.26,126246,Solute carrier family 12 member 5 OS=Rattus norvegicus GN=Slc12a5 PE=1 SV=2
+51,31,Q9Z173|AGRL3_RAT,8.70,10,11,10,Carbamidomethylation; Carbamylation; Formylation; Dehydration,5.38E7,1.37E7,1.59:0.41,5.38E7,1.37E7,1.59:0.41,172441,Adhesion G protein-coupled receptor L3 OS=Rattus norvegicus GN=Adgrl3 PE=1 SV=1
+119,109,P97849|S27A1_RAT,8.68,17,7,6,Carbamidomethylation; Formylation,3.59E7,8.74E6,1.61:0.39,3.59E7,8.74E6,1.61:0.39,71283,Long-chain fatty acid transport protein 1 OS=Rattus norvegicus GN=Slc27a1 PE=2 SV=1
+212,282,P21451|EDNRB_RAT,8.66,6,2,2,Carbamidomethylation,1.73E7,3.82E6,1.64:0.36,1.73E7,3.82E6,1.64:0.36,49455,Endothelin B receptor OS=Rattus norvegicus GN=Ednrb PE=2 SV=2
+479,566,Q9JJW3|USMG5_RAT,8.62,26,1,1,,1.33E7,2.09E6,1.73:0.27,1.33E7,2.09E6,1.73:0.27,6408,Up-regulated during skeletal muscle growth protein 5 OS=Rattus norvegicus GN=Usmg5 PE=1 SV=1
+193,166,P97710|SHPS1_RAT,8.57,7,3,3,,3.15E7,7.23E6,1.63:0.37,3.15E7,7.23E6,1.63:0.37,55691,Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Rattus norvegicus GN=Sirpa PE=1 SV=1
+486,648,tr|F1LSV0|F1LSV0_RAT,8.55,1,1,1,,5.01E6,7.84E5,1.73:0.27,5.01E6,7.84E5,1.73:0.27,90626,Protein Sema4b OS=Rattus norvegicus GN=Sema4b PE=1 SV=2
+397,617,tr|A0A0G2JXN2|A0A0G2JXN2_RAT,8.48,2,1,1,,1.57E6,2.46E5,1.73:0.27,1.57E6,2.46E5,1.73:0.27,63011,Protein Trim46 OS=Rattus norvegicus GN=Trim46 PE=1 SV=1
+219,208,P23565|AINX_RAT,8.47,8,5,3,Acetylation (N-term); Deamidation (NQ); Formylation; Carboxylation (E),6.31E6,1.5E6,1.62:0.38,6.31E6,1.5E6,1.62:0.38,56115,Alpha-internexin OS=Rattus norvegicus GN=Ina PE=1 SV=2
+421,609,Q07652|CAC1E_RAT,8.43,1,1,1,,2.7E6,4.27E5,1.73:0.27,2.7E6,4.27E5,1.73:0.27,252114,Voltage-dependent R-type calcium channel subunit alpha-1E OS=Rattus norvegicus GN=Cacna1e PE=1 SV=1
+303,344,tr|Q5U2P5|Q5U2P5_RAT,8.41,8,3,3,Carbamidomethylation; Carbamylation,1.09E7,2.54E6,1.62:0.38,1.09E7,2.54E6,1.62:0.38,76061,Protein C2cd2l OS=Rattus norvegicus GN=C2cd2l PE=1 SV=1
+423,3238,tr|M0RC54|M0RC54_RAT,8.31,1,1,1,,3.04E6,4.91E5,1.72:0.28,3.04E6,4.91E5,1.72:0.28,328577,Protein Bod1l1 OS=Rattus norvegicus GN=Bod1l1 PE=1 SV=2
+346,318,tr|A0A0G2K9D7|A0A0G2K9D7_RAT,8.29,3,2,2,,1.74E7,3.88E6,1.63:0.37,1.74E7,3.88E6,1.63:0.37,101183,Protein Pcdhgc3 OS=Rattus norvegicus GN=Pcdhgc3 PE=1 SV=1
+294,299,O08679|MARK2_RAT,8.22,5,3,1,,4.5E6,7.39E5,1.72:0.28,4.5E6,7.39E5,1.72:0.28,80872,Serine/threonine-protein kinase MARK2 OS=Rattus norvegicus GN=Mark2 PE=1 SV=1
+238,205,O08875|DCLK1_RAT,8.22,10,3,3,Carbamylation,3.79E7,8.88E6,1.62:0.38,3.79E7,8.88E6,1.62:0.38,47681,Serine/threonine-protein kinase DCLK1 OS=Rattus norvegicus GN=Dclk1 PE=1 SV=1
+404,688,P47858|PFKAM_RAT,8.18,1,1,1,,1.82E6,2.99E5,1.72:0.28,1.82E6,2.99E5,1.72:0.28,85560,ATP-dependent 6-phosphofructokinase  muscle type OS=Rattus norvegicus GN=Pfkm PE=1 SV=3
+273,270,tr|D4A2Q3|D4A2Q3_RAT,8.18,6,4,4,Carbamidomethylation,2.78E7,7.17E6,1.59:0.41,2.78E7,7.17E6,1.59:0.41,115564,Protein Psd3 OS=Rattus norvegicus GN=Psd3 PE=1 SV=3
+512,7278,tr|G3V9W2|G3V9W2_RAT,8.16,1,1,1,,2.12E6,3.48E5,1.72:0.28,2.12E6,3.48E5,1.72:0.28,133261,Tyrosine-protein kinase OS=Rattus norvegicus GN=Jak1 PE=1 SV=1
+160,99,Q5XIQ4|MGRN1_RAT,8.13,22,7,7,Carbamidomethylation,4.39E7,1.16E7,1.58:0.42,4.39E7,1.16E7,1.58:0.42,58603,E3 ubiquitin-protein ligase MGRN1 OS=Rattus norvegicus GN=Mgrn1 PE=1 SV=1
+40,44,Q9JKS6|PCLO_RAT,7.99,5,13,13,Carbamidomethylation; Formylation,3.36E7,8.62E6,1.59:0.41,3.36E7,8.62E6,1.59:0.41,552723,Protein piccolo OS=Rattus norvegicus GN=Pclo PE=1 SV=1
+316,422,P19969|GBRA5_RAT,7.98,3,1,1,,2.26E6,3.84E5,1.71:0.29,2.26E6,3.84E5,1.71:0.29,52337,Gamma-aminobutyric acid receptor subunit alpha-5 OS=Rattus norvegicus GN=Gabra5 PE=2 SV=1
+381,417,Q62950|DPYL1_RAT,7.96,1,1,1,,4.01E6,6.87E5,1.71:0.29,4.01E6,6.87E5,1.71:0.29,62196,Dihydropyrimidinase-related protein 1 OS=Rattus norvegicus GN=Crmp1 PE=1 SV=1
+142,113,Q925T8|BRNP1_RAT,7.92,9,6,6,,2.71E7,6.94E6,1.59:0.41,2.71E7,6.94E6,1.59:0.41,88654,BMP/retinoic acid-inducible neural-specific protein 1 OS=Rattus norvegicus GN=Brinp1 PE=2 SV=1
+28,19,tr|D4A7M0|D4A7M0_RAT,7.92,18,21,21,Carbamidomethylation; Formylation,3.79E7,9.58E6,1.60:0.40,3.79E7,9.58E6,1.60:0.40,176515,Protein Plxnc1 OS=Rattus norvegicus GN=Plxnc1 PE=1 SV=3
+272,261,tr|A0A0G2K5L2|A0A0G2K5L2_RAT,7.87,7,2,2,Carbamidomethylation,1.86E7,4.59E6,1.60:0.40,1.86E7,4.59E6,1.60:0.40,34662,Protein LOC100911440 OS=Rattus norvegicus GN=LOC100911440 PE=1 SV=1
+399,627,tr|D3ZEN2|D3ZEN2_RAT,7.86,10,1,1,Carbamidomethylation,3.85E6,6.71E5,1.70:0.30,3.85E6,6.71E5,1.70:0.30,15373,Uncharacterized protein OS=Rattus norvegicus PE=4 SV=2
+68,248,P32089|TXTP_RAT,7.83,8,2,2,Formylation,1.31E7,3.14E6,1.61:0.39,1.31E7,3.14E6,1.61:0.39,33835,Tricarboxylate transport protein  mitochondrial OS=Rattus norvegicus GN=Slc25a1 PE=1 SV=1
+42,23,P06761|GRP78_RAT,7.82,27,14,12,Formylation; Carbamylation,5.31E7,1.35E7,1.59:0.41,5.31E7,1.35E7,1.59:0.41,72347,78 kDa glucose-regulated protein OS=Rattus norvegicus GN=Hspa5 PE=1 SV=1
+140,138,O70511|ANK3_RAT,7.82,4,7,7,,1.28E7,3.39E6,1.58:0.42,1.28E7,3.39E6,1.58:0.42,284441,Ankyrin-3 OS=Rattus norvegicus GN=Ank3 PE=1 SV=3
+248,297,Q8VHF0|MARK3_RAT,7.77,4,3,1,,3.61E6,6.39E5,1.70:0.30,3.61E6,6.39E5,1.70:0.30,88751,MAP/microtubule affinity-regulating kinase 3 OS=Rattus norvegicus GN=Mark3 PE=1 SV=1
+408,747,tr|B2GUY8|B2GUY8_RAT,7.74,7,2,2,,4.76E6,1.09E6,1.63:0.37,4.76E6,1.09E6,1.63:0.37,34341,Protein Slc25a17 OS=Rattus norvegicus GN=Slc25a17 PE=1 SV=1
+269,217,Q5NDF0|PMGT2_RAT,7.71,4,2,2,Carbamidomethylation,4.82E6,1.13E6,1.62:0.38,4.82E6,1.13E6,1.62:0.38,66717,Protein O-linked-mannose beta-1 4-N-acetylglucosaminyltransferase 2 OS=Rattus norvegicus GN=Pomgnt2 PE=2 SV=1
+328,298,tr|F1LZ38|F1LZ38_RAT,7.68,2,3,3,Carbamidomethylation,5.94E6,1.38E6,1.62:0.38,5.94E6,1.38E6,1.62:0.38,310876,Protein Tenm4 OS=Rattus norvegicus GN=Tenm4 PE=4 SV=2
+443,531,tr|M0R8M8|M0R8M8_RAT,7.66,8,1,1,Carbamidomethylation,5.79E6,1.04E6,1.70:0.30,5.79E6,1.04E6,1.70:0.30,15325,Uncharacterized protein OS=Rattus norvegicus GN=LOC100365961 PE=3 SV=1
+33,294,tr|D3ZEI4|D3ZEI4_RAT,7.64,15,3,3,Carbamidomethylation; Carbamylation,4.8E7,1.26E7,1.59:0.41,4.8E7,1.26E7,1.59:0.41,46529,Protein Hepacam OS=Rattus norvegicus GN=Hepacam PE=1 SV=2
+445,635,tr|D4AE88|D4AE88_RAT,7.62,1,1,1,,1.5E6,2.68E5,1.70:0.30,1.5E6,2.68E5,1.70:0.30,88765,Protein Fam120b OS=Rattus norvegicus GN=Fam120b PE=1 SV=1
+87,81,tr|D4AE63|D4AE63_RAT,7.54,22,11,11,Methylation(KR),8.27E7,2.24E7,1.57:0.43,8.27E7,2.24E7,1.57:0.43,81343,Protein RGD1309821 OS=Rattus norvegicus GN=RGD1309821 PE=1 SV=1
+157,162,P35435|ATPG_RAT,7.52,18,5,5,Formylation,1.17E8,3.08E7,1.58:0.42,1.17E8,3.08E7,1.58:0.42,30191,ATP synthase subunit gamma  mitochondrial OS=Rattus norvegicus GN=Atp5c1 PE=1 SV=2
+7,6,tr|D3Z981|D3Z981_RAT,7.49,26,33,26,Carbamidomethylation; Acetylation (N-term); Carbamylation; Deamidation (NQ); Formylation; Hexose (NSY),8.62E7,2.52E7,1.55:0.45,8.62E7,2.52E7,1.55:0.45,213190,Protein Plxna1 OS=Rattus norvegicus GN=Plxna1 PE=4 SV=3
+198,264,P38718|MPC2_RAT,7.48,23,3,3,Carbamylation,1.4E7,3.81E6,1.57:0.43,1.4E7,3.81E6,1.57:0.43,14258,Mitochondrial pyruvate carrier 2 OS=Rattus norvegicus GN=Mpc2 PE=2 SV=1
+429,515,tr|D3ZPN0|D3ZPN0_RAT,7.46,2,1,1,,5.84E6,1.09E6,1.69:0.31,5.84E6,1.09E6,1.69:0.31,132113,Protein Pcdh17 OS=Rattus norvegicus GN=Pcdh17 PE=4 SV=2
+317,434,tr|D3ZE26|D3ZE26_RAT,7.42,5,2,2,,8.72E6,2.23E6,1.59:0.41,8.72E6,2.23E6,1.59:0.41,77143,Protein Tmcc2 OS=Rattus norvegicus GN=Tmcc2 PE=1 SV=1
+292,229,tr|A0A0H2UI38|A0A0H2UI38_RAT,7.40,11,2,2,,9.97E6,2.74E6,1.57:0.43,9.97E6,2.74E6,1.57:0.43,17369,Protein LOC100910336 OS=Rattus norvegicus GN=LOC100910336 PE=4 SV=1
+204,185,Q62888|NLGN2_RAT,7.20,7,3,2,Formylation,6.17E6,1.62E6,1.58:0.42,6.17E6,1.62E6,1.58:0.42,90961,Neuroligin-2 OS=Rattus norvegicus GN=Nlgn2 PE=1 SV=1
+31,37,tr|D3ZEH1|D3ZEH1_RAT,7.17,5,17,17,Carbamidomethylation,2.12E7,5.74E6,1.57:0.43,2.12E7,5.74E6,1.57:0.43,540348,Protein Fat4 OS=Rattus norvegicus GN=Fat4 PE=1 SV=3
+334,445,Q9Z214|HOME1_RAT,7.05,8,2,2,,5.22E6,1.4E6,1.58:0.42,5.22E6,1.4E6,1.58:0.42,41305,Homer protein homolog 1 OS=Rattus norvegicus GN=Homer1 PE=1 SV=2
+329,301,P48303|S1PR1_RAT,7.02,6,2,2,,1.32E7,3.59E6,1.57:0.43,1.32E7,3.59E6,1.57:0.43,42746,Sphingosine 1-phosphate receptor 1 OS=Rattus norvegicus GN=S1pr1 PE=1 SV=1
+410,770,Q7TPJ0|SSRA_RAT,7.00,3,1,1,,3.98E6,7.95E5,1.67:0.33,3.98E6,7.95E5,1.67:0.33,35629,Translocon-associated protein subunit alpha OS=Rattus norvegicus GN=Ssr1 PE=1 SV=1
+276,288,P31596|EAA2_RAT,7.00,11,4,3,Carbamidomethylation; Ammonia-loss (N),2.87E7,8.51E6,1.54:0.46,2.87E7,8.51E6,1.54:0.46,62106,Excitatory amino acid transporter 2 OS=Rattus norvegicus GN=Slc1a2 PE=1 SV=2
+515,7329,D3ZTD8|SEM5A_RAT,6.94,1,1,1,Carbamidomethylation,1.89E6,3.76E5,1.67:0.33,1.89E6,3.76E5,1.67:0.33,120378,Semaphorin-5A OS=Rattus norvegicus GN=Sema5a PE=1 SV=1
+84,74,tr|E9PT53|E9PT53_RAT,6.94,14,9,9,Carbamidomethylation; Pyro-glu from Q,2.2E7,6.61E6,1.54:0.46,2.2E7,6.61E6,1.54:0.46,100563,Protein Wfs1 OS=Rattus norvegicus GN=Wfs1 PE=1 SV=2
+155,159,Q64605|PTPRS_RAT,6.88,3,4,4,,1.37E7,4.05E6,1.54:0.46,1.37E7,4.05E6,1.54:0.46,211929,Receptor-type tyrosine-protein phosphatase S OS=Rattus norvegicus GN=Ptprs PE=1 SV=2
+129,104,tr|D3ZDX5|D3ZDX5_RAT,6.84,4,5,5,Carbamidomethylation,9.3E6,2.74E6,1.54:0.46,9.3E6,2.74E6,1.54:0.46,231809,Protein Plxnb1 OS=Rattus norvegicus GN=Plxnb1 PE=1 SV=1
+99,117,P48721|GRP75_RAT,6.84,12,6,5,,1.97E7,5.97E6,1.53:0.47,1.97E7,5.97E6,1.53:0.47,73858,Stress-70 protein  mitochondrial OS=Rattus norvegicus GN=Hspa9 PE=1 SV=3
+508,3021,P56720|SRBP1_RAT,6.83,1,1,1,,1.2E6,2.45E5,1.66:0.34,1.2E6,2.45E5,1.66:0.34,120520,Sterol regulatory element-binding protein 1 OS=Rattus norvegicus GN=Srebf1 PE=1 SV=3
+4,2,Q63617|HYOU1_RAT,6.81,35,29,29,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation; Methylation(KR); 3 more,3.04E8,9.09E7,1.54:0.46,3.04E8,9.09E7,1.54:0.46,111289,Hypoxia up-regulated protein 1 OS=Rattus norvegicus GN=Hyou1 PE=1 SV=1
+220,218,Q62638|GSLG1_RAT,6.80,4,3,3,Carbamidomethylation,2.63E7,7.39E6,1.56:0.44,2.63E7,7.39E6,1.56:0.44,133557,Golgi apparatus protein 1 OS=Rattus norvegicus GN=Glg1 PE=1 SV=1
+12,15,Q4QRB4|TBB3_RAT,6.79,53,17,4,Carbamylation; Deamidation (NQ); Formylation; Oxidation (M); Ubiquitin; Dehydration,6.14E7,1.9E7,1.53:0.47,6.14E7,1.9E7,1.53:0.47,50419,Tubulin beta-3 chain OS=Rattus norvegicus GN=Tubb3 PE=1 SV=1
+475,7325,tr|D3ZTW1|D3ZTW1_RAT,6.65,1,1,1,,1.58E6,3.31E5,1.65:0.35,1.58E6,3.31E5,1.65:0.35,108404,Protein Ints5 OS=Rattus norvegicus GN=Ints5 PE=1 SV=1
+270,236,D4ABX8|LRFN4_RAT,6.63,9,4,4,Carbamidomethylation,9.16E6,2.75E6,1.54:0.46,9.16E6,2.75E6,1.54:0.46,67259,Leucine-rich repeat and fibronectin type-III domain-containing protein 4 OS=Rattus norvegicus GN=Lrfn4 PE=1 SV=1
+237,184,P18508|GBRG2_RAT,6.63,8,3,3,,1.89E7,5.64E6,1.54:0.46,1.89E7,5.64E6,1.54:0.46,54077,Gamma-aminobutyric acid receptor subunit gamma-2 OS=Rattus norvegicus GN=Gabrg2 PE=1 SV=1
+341,352,tr|D4A0A1|D4A0A1_RAT,6.58,1,1,1,,2.42E6,5.15E5,1.65:0.35,2.42E6,5.15E5,1.65:0.35,103026,Protein Soga3 OS=Rattus norvegicus GN=Soga3 PE=1 SV=1
+57,41,P06687|AT1A3_RAT,6.47,18,11,4,Carbamidomethylation; Acetylation (N-term); Carbamylation; Deamidation (NQ); Pyro-glu from Q; Formylation,1.68E7,4.88E6,1.55:0.45,1.68E7,4.88E6,1.55:0.45,111691,Sodium/potassium-transporting ATPase subunit alpha-3 OS=Rattus norvegicus GN=Atp1a3 PE=1 SV=2
+171,144,tr|D4A517|D4A517_RAT,6.44,9,6,6,,2.83E7,8.28E6,1.55:0.45,2.83E7,8.28E6,1.55:0.45,94307,Protein Slc39a10 OS=Rattus norvegicus GN=Slc39a10 PE=1 SV=1
+205,280,Q9EQG6|KDIS_RAT,6.42,1,2,2,,4.96E6,1.38E6,1.56:0.44,4.96E6,1.38E6,1.56:0.44,195715,Kinase D-interacting substrate of 220 kDa OS=Rattus norvegicus GN=Kidins220 PE=1 SV=2
+509,7254,D4A6D8|LRRT1_RAT,6.42,2,1,1,,2.48E6,5.42E5,1.64:0.36,2.48E6,5.42E5,1.64:0.36,58732,Leucine-rich repeat transmembrane neuronal protein 1 OS=Rattus norvegicus GN=Lrrtm1 PE=3 SV=1
+301,312,tr|D3ZYR4|D3ZYR4_RAT,6.41,2,1,1,Carbamidomethylation,1.59E6,3.49E5,1.64:0.36,1.59E6,3.49E5,1.64:0.36,95584,Protein Sema4d OS=Rattus norvegicus GN=Sema4d PE=1 SV=3
+275,287,tr|F1LP13|F1LP13_RAT,6.40,4,4,4,,1.49E7,4.57E6,1.53:0.47,1.49E7,4.57E6,1.53:0.47,153097,Protein Ptprg OS=Rattus norvegicus GN=Ptprg PE=1 SV=3
+464,822,tr|D3ZUE1|D3ZUE1_RAT,6.39,2,1,1,,1.02E7,2.28E6,1.63:0.37,1.02E7,2.28E6,1.63:0.37,94280,Protein Gas2l2 OS=Rattus norvegicus GN=Gas2l2 PE=4 SV=1
+225,161,tr|M0R4G0|M0R4G0_RAT,6.28,9,4,4,Carbamidomethylation,1.07E7,3.18E6,1.54:0.46,1.07E7,3.18E6,1.54:0.46,79878,Protein Islr2 OS=Rattus norvegicus GN=Islr2 PE=4 SV=2
+496,776,tr|F1LWT9|F1LWT9_RAT,6.27,3,1,1,,1.56E6,3.5E5,1.63:0.37,1.56E6,3.5E5,1.63:0.37,29643,Neurexophilin OS=Rattus norvegicus GN=Nxph2 PE=3 SV=3
+235,7239,tr|D3ZD73|D3ZD73_RAT,6.26,2,1,1,Carbamidomethylation,2.89E6,6.51E5,1.63:0.37,2.89E6,6.51E5,1.63:0.37,54245,Protein Ddx6 OS=Rattus norvegicus GN=Ddx6 PE=1 SV=1
+83,95,Q8R4E1|TIP_RAT,6.17,11,5,5,Pyro-glu from Q,6.11E7,2.08E7,1.49:0.51,6.11E7,2.08E7,1.49:0.51,67337,T-cell immunomodulatory protein OS=Rattus norvegicus GN=Itfg1 PE=2 SV=1
+109,73,tr|Q63116|Q63116_RAT,6.13,11,9,9,Carbamidomethylation,1.63E7,5.35E6,1.51:0.49,1.63E7,5.35E6,1.51:0.49,109342,Tyrosine-protein kinase receptor OS=Rattus norvegicus GN=Kit PE=1 SV=1
+187,126,P10719|ATPB_RAT,6.10,14,5,5,,1.82E7,5.96E6,1.51:0.49,1.82E7,5.96E6,1.51:0.49,56354,ATP synthase subunit beta  mitochondrial OS=Rattus norvegicus GN=Atp5b PE=1 SV=2
+440,7279,tr|D4AAY6|D4AAY6_RAT,6.09,7,1,1,,6.04E6,1.41E6,1.62:0.38,6.04E6,1.41E6,1.62:0.38,16178,Protein RGD1559972 OS=Rattus norvegicus GN=RGD1559972 PE=3 SV=2
+194,189,Q641Y0|OST48_RAT,6.08,13,5,5,,1.65E7,5.42E6,1.51:0.49,1.65E7,5.42E6,1.51:0.49,48896,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit OS=Rattus norvegicus GN=Ddost PE=2 SV=1
+134,120,P21707|SYT1_RAT,6.07,16,5,5,,3.33E7,1.04E7,1.53:0.47,3.33E7,1.04E7,1.53:0.47,47399,Synaptotagmin-1 OS=Rattus norvegicus GN=Syt1 PE=1 SV=3
+47,59,Q05695|L1CAM_RAT,6.01,17,15,15,Carbamidomethylation; Carbamylation; Formylation,7.83E7,2.81E7,1.47:0.53,7.83E7,2.81E7,1.47:0.53,140934,Neural cell adhesion molecule L1 OS=Rattus norvegicus GN=L1cam PE=1 SV=3
+26,47,tr|D3ZWP6|D3ZWP6_RAT,5.97,9,16,8,Carbamidomethylation; Formylation,1.72E7,5.33E6,1.53:0.47,1.72E7,5.33E6,1.53:0.47,211602,Protein Plxna2 OS=Rattus norvegicus GN=Plxna2 PE=1 SV=1
+215,157,Q8K4Y5|LGI1_RAT,5.95,8,3,3,,1.65E7,5.55E6,1.50:0.50,1.65E7,5.55E6,1.50:0.50,63728,Leucine-rich glioma-inactivated protein 1 OS=Rattus norvegicus GN=Lgi1 PE=1 SV=1
+436,723,Q80WE1|FMR1_RAT,5.94,2,1,1,,4.22E6,1.01E6,1.61:0.39,4.22E6,1.01E6,1.61:0.39,66780,Synaptic functional regulator FMR1 OS=Rattus norvegicus GN=Fmr1 PE=1 SV=2
+457,735,tr|A0A0G2JUZ0|A0A0G2JUZ0_RAT,5.93,3,1,1,,1.2E6,2.85E5,1.62:0.38,1.2E6,2.85E5,1.62:0.38,75543,Protein Mtmr1 OS=Rattus norvegicus GN=Mtmr1 PE=1 SV=1
+78,158,P14562|LAMP1_RAT,5.91,20,8,8,Carbamidomethylation; Deamidation (NQ); Formylation; Ammonia-loss (N),1.58E8,5.3E7,1.50:0.50,1.58E8,5.3E7,1.50:0.50,43969,Lysosome-associated membrane glycoprotein 1 OS=Rattus norvegicus GN=Lamp1 PE=1 SV=1
+370,499,Q8VHW5|CCG8_RAT,5.89,8,1,1,,2.48E6,5.96E5,1.61:0.39,2.48E6,5.96E5,1.61:0.39,43269,Voltage-dependent calcium channel gamma-8 subunit OS=Rattus norvegicus GN=Cacng8 PE=1 SV=1
+288,284,Q6MG48|PRC2A_RAT,5.80,4,3,3,,7.79E6,2.62E6,1.50:0.50,7.79E6,2.62E6,1.50:0.50,229045,Protein PRRC2A OS=Rattus norvegicus GN=Prrc2a PE=1 SV=1
+474,7311,tr|D3ZH46|D3ZH46_RAT,5.75,1,1,1,Carbamidomethylation,2.47E6,6.11E5,1.60:0.40,2.47E6,6.11E5,1.60:0.40,149535,Protein Ibtk OS=Rattus norvegicus GN=Ibtk PE=1 SV=3
+93,86,tr|A0A0G2JUI5|A0A0G2JUI5_RAT,5.67,5,6,3,Carbamidomethylation,1.04E7,3.31E6,1.52:0.48,1.04E7,3.31E6,1.52:0.48,170930,Protein Clasp1 OS=Rattus norvegicus GN=Clasp1 PE=1 SV=1
+81,56,O88778|BSN_RAT,5.66,4,9,9,Carbamidomethylation; Diethylation; Carbamylation,2.2E7,7.36E6,1.50:0.50,2.2E7,7.36E6,1.50:0.50,418429,Protein bassoon OS=Rattus norvegicus GN=Bsn PE=1 SV=3
+2,26,Q05962|ADT1_RAT,5.65,62,30,8,Carbamidomethylation; Deamidation (NQ); Dehydration; Formylation; Oxidation (M); 8 more,9.01E8,3.36E8,1.46:0.54,9.01E8,3.36E8,1.46:0.54,32989,ADP/ATP translocase 1 OS=Rattus norvegicus GN=Slc25a4 PE=1 SV=3
+114,92,Q07310|NRX3A_RAT,5.64,7,9,5,Carbamidomethylation; Deamidation (NQ),1.43E7,4.93E6,1.49:0.51,1.43E7,4.93E6,1.49:0.51,173993,Neurexin-3 OS=Rattus norvegicus GN=Nrxn3 PE=1 SV=1
+62,49,tr|F7EL93|F7EL93_RAT,5.61,17,12,12,Carbamidomethylation; Deamidation (NQ); Pyro-glu from Q,2.7E7,9.59E6,1.48:0.52,2.7E7,9.59E6,1.48:0.52,133360,Protein Igdcc4 OS=Rattus norvegicus GN=Igdcc4 PE=4 SV=2
+438,893,tr|A0A0G2JUM9|A0A0G2JUM9_RAT,5.58,0,1,1,,4.21E6,1.07E6,1.59:0.41,4.21E6,1.07E6,1.59:0.41,199090,Uncharacterized protein OS=Rattus norvegicus PE=4 SV=1
+167,139,Q6P7R8|DHB12_RAT,5.58,28,6,6,Carbamidomethylation,3.16E7,1.12E7,1.48:0.52,3.16E7,1.12E7,1.48:0.52,34841,Very-long-chain 3-oxoacyl-CoA reductase OS=Rattus norvegicus GN=Hsd17b12 PE=2 SV=1
+45,27,tr|F1LNL3|F1LNL3_RAT,5.57,10,17,17,Carbamidomethylation; Acetylation (K); Acetylation (N-term),2.55E7,9.07E6,1.48:0.52,2.55E7,9.07E6,1.48:0.52,253987,Protein Abca1 OS=Rattus norvegicus GN=Abca1 PE=1 SV=3
+266,509,Q9Z142|TMM33_RAT,5.53,5,1,1,,3.48E6,8.92E5,1.59:0.41,3.48E6,8.92E5,1.59:0.41,27983,Transmembrane protein 33 OS=Rattus norvegicus GN=Tmem33 PE=2 SV=1
+213,300,O35547|ACSL4_RAT,5.51,6,3,3,Carbamidomethylation,7.7E6,2.52E6,1.51:0.49,7.7E6,2.52E6,1.51:0.49,74327,Long-chain-fatty-acid--CoA ligase 4 OS=Rattus norvegicus GN=Acsl4 PE=1 SV=1
+206,413,Q8R508|FAT3_RAT,5.50,1,3,3,,3.09E6,9.95E5,1.51:0.49,3.09E6,9.95E5,1.51:0.49,502092,Protocadherin Fat 3 OS=Rattus norvegicus GN=Fat3 PE=1 SV=1
+38,105,tr|D3ZW15|D3ZW15_RAT,5.48,9,6,6,Carbamidomethylation,2.37E7,8.65E6,1.46:0.54,2.37E7,8.65E6,1.46:0.54,134716,Protein Sec24b OS=Rattus norvegicus GN=Sec24b PE=1 SV=1
+166,98,Q5RJR8|LRC59_RAT,5.41,27,5,5,Carbamidomethylation,2.8E7,1.03E7,1.46:0.54,2.8E7,1.03E7,1.46:0.54,34869,Leucine-rich repeat-containing protein 59 OS=Rattus norvegicus GN=Lrrc59 PE=1 SV=1
+178,178,P16036|MPCP_RAT,5.41,19,5,5,Carbamidomethylation,2.57E7,9.27E6,1.47:0.53,2.57E7,9.27E6,1.47:0.53,39445,Phosphate carrier protein  mitochondrial OS=Rattus norvegicus GN=Slc25a3 PE=1 SV=1
+122,112,tr|Q6P762|Q6P762_RAT,5.37,10,6,6,Carbamidomethylation,2.53E7,9.42E6,1.46:0.54,2.53E7,9.42E6,1.46:0.54,114327,Alpha-mannosidase OS=Rattus norvegicus GN=Man2b1 PE=1 SV=1
+145,160,P19492|GRIA3_RAT,5.32,9,5,4,Carbamidomethylation; Carbamylation; Pyro-glu from Q,1.19E7,4.38E6,1.46:0.54,1.19E7,4.38E6,1.46:0.54,100373,Glutamate receptor 3 OS=Rattus norvegicus GN=Gria3 PE=1 SV=1
+431,613,tr|F1M5G8|F1M5G8_RAT,5.28,1,1,1,,1.98E6,5.3E5,1.58:0.42,1.98E6,5.3E5,1.58:0.42,198755,Protein Tmem131 OS=Rattus norvegicus GN=Tmem131 PE=1 SV=2
+79,52,tr|F1LS01|F1LS01_RAT,5.27,14,9,9,Carbamidomethylation; Deamidation (NQ); Pyro-glu from Q; Ammonia-loss (N),3.86E7,1.44E7,1.46:0.54,3.86E7,1.44E7,1.46:0.54,113736,Protein Pcdh9 OS=Rattus norvegicus GN=Pcdh9 PE=4 SV=3
+25,18,P15999|ATPA_RAT,5.25,40,17,17,Carbamidomethylation; Carbamylation; Formylation,1.37E8,5.03E7,1.46:0.54,1.37E8,5.03E7,1.46:0.54,59754,ATP synthase subunit alpha  mitochondrial OS=Rattus norvegicus GN=Atp5a1 PE=1 SV=2
+254,269,tr|D3ZUJ8|D3ZUJ8_RAT,5.25,6,4,4,Carbamylation,1.52E7,5.16E6,1.49:0.51,1.52E7,5.16E6,1.49:0.51,104063,Protein Tmtc3 OS=Rattus norvegicus GN=Tmtc3 PE=1 SV=1
+29,30,D3ZPX4|PLXA3_RAT,5.23,13,18,13,Carbamidomethylation; Hexose (NSY); Deamidation (NQ); Dehydration,1.99E7,7.45E6,1.46:0.54,1.99E7,7.45E6,1.46:0.54,207981,Plexin-A3 OS=Rattus norvegicus GN=Plxna3 PE=3 SV=1
+311,281,tr|D3ZK41|D3ZK41_RAT,5.23,5,3,2,Carbamidomethylation,6.83E6,2.37E6,1.48:0.52,6.83E6,2.37E6,1.48:0.52,95404,Protein Slitrk2 OS=Rattus norvegicus GN=Slitrk2 PE=4 SV=2
+277,292,tr|D4A833|D4A833_RAT,5.20,8,2,2,,4.74E6,1.6E6,1.50:0.50,4.74E6,1.6E6,1.50:0.50,50001,Mitochondrial ribosomal protein S30 (Predicted)  isoform CRA_a OS=Rattus norvegicus GN=Mrps30 PE=1 SV=1
+465,840,P62755|RS6_RAT,5.18,5,1,1,Carbamidomethylation,2.39E6,6.53E5,1.57:0.43,2.39E6,6.53E5,1.57:0.43,28681,40S ribosomal protein S6 OS=Rattus norvegicus GN=Rps6 PE=1 SV=1
+218,204,tr|A0A0G2JUG7|A0A0G2JUG7_RAT,5.12,4,3,3,,1.06E7,3.94E6,1.46:0.54,1.06E7,3.94E6,1.46:0.54,108080,Protein Iqsec1 OS=Rattus norvegicus GN=Iqsec1 PE=1 SV=1
+300,311,P15127|INSR_RAT,5.06,1,2,2,,2.45E6,8.64E5,1.48:0.52,2.45E6,8.64E5,1.48:0.52,156757,Insulin receptor OS=Rattus norvegicus GN=Insr PE=1 SV=1
+77,80,P46101|DPP6_RAT,4.92,14,8,8,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation,2.65E7,9.52E6,1.47:0.53,2.65E7,9.52E6,1.47:0.53,97302,Dipeptidyl aminopeptidase-like protein 6 OS=Rattus norvegicus GN=Dpp6 PE=1 SV=1
+112,84,tr|D3ZUY8|D3ZUY8_RAT,4.86,7,6,4,Carbamidomethylation; Pyro-glu from Q,9.32E6,3.62E6,1.44:0.56,9.32E6,3.62E6,1.44:0.56,107675,Adaptor protein complex AP-2  alpha 1 subunit (Predicted) OS=Rattus norvegicus GN=Ap2a1 PE=1 SV=1
+44,65,tr|G3V824|G3V824_RAT,4.84,9,16,16,Carbamidomethylation; Methylation(KR); Deamidation (NQ),2.66E7,1.05E7,1.43:0.57,2.66E7,1.05E7,1.43:0.57,273594,Insulin-like growth factor 2 receptor  isoform CRA_b OS=Rattus norvegicus GN=Igf2r PE=1 SV=1
+521,936,P70582|NUP54_RAT,4.81,3,1,1,,2.21E6,6.47E5,1.55:0.45,2.21E6,6.47E5,1.55:0.45,55745,Nuclear pore complex protein Nup54 OS=Rattus norvegicus GN=Nup54 PE=1 SV=1
+229,216,P20611|PPAL_RAT,4.76,8,3,3,Carbamylation,2.97E7,1.12E7,1.45:0.55,2.97E7,1.12E7,1.45:0.55,48320,Lysosomal acid phosphatase OS=Rattus norvegicus GN=Acp2 PE=1 SV=1
+291,228,Q8K4K5|L2GL1_RAT,4.71,1,1,1,,3.66E6,1.1E6,1.54:0.46,3.66E6,1.1E6,1.54:0.46,112495,Lethal(2) giant larvae protein homolog 1 OS=Rattus norvegicus GN=Llgl1 PE=1 SV=1
+349,334,Q5BK63|NDUA9_RAT,4.66,7,2,2,,5.52E6,2.09E6,1.45:0.55,5.52E6,2.09E6,1.45:0.55,42559,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9  mitochondrial OS=Rattus norvegicus GN=Ndufa9 PE=1 SV=2
+378,371,G3V9D0|PGLT1_RAT,4.65,7,2,2,,6.83E6,2.56E6,1.45:0.55,6.83E6,2.56E6,1.45:0.55,46510,Protein O-glucosyltransferase 1 OS=Rattus norvegicus GN=Poglut1 PE=3 SV=1
+36,38,Q765A7|PGAP1_RAT,4.63,24,15,15,Carbamidomethylation; Formylation,4.84E7,2.03E7,1.41:0.59,4.84E7,2.03E7,1.41:0.59,104384,GPI inositol-deacylase OS=Rattus norvegicus GN=Pgap1 PE=1 SV=1
+501,829,tr|F1M2B7|F1M2B7_RAT,4.60,1,1,1,Carbamidomethylation,2.63E6,8.06E5,1.53:0.47,2.63E6,8.06E5,1.53:0.47,165093,Protein Gli2 OS=Rattus norvegicus GN=Gli2 PE=4 SV=3
+13,13,P47819|GFAP_RAT,4.60,43,18,17,Carbamidomethylation; Carbamylation; Formylation; Methylation(KR); Pyro-glu from Q; Deamidation (NQ),4.49E8,1.78E8,1.43:0.57,4.49E8,1.78E8,1.43:0.57,49957,Glial fibrillary acidic protein OS=Rattus norvegicus GN=Gfap PE=1 SV=2
+324,255,P62832|RL23_RAT,4.54,26,3,3,Carbamidomethylation,3.33E7,1.29E7,1.44:0.56,3.33E7,1.29E7,1.44:0.56,14865,60S ribosomal protein L23 OS=Rattus norvegicus GN=Rpl23 PE=2 SV=1
+345,310,tr|A0A0G2JZA1|A0A0G2JZA1_RAT,4.45,2,2,2,,7.36E6,2.79E6,1.45:0.55,7.36E6,2.79E6,1.45:0.55,165789,Protein Robo2 OS=Rattus norvegicus GN=Robo2 PE=1 SV=1
+192,153,tr|G3V6U3|G3V6U3_RAT,4.42,13,4,4,Carbamidomethylation,1.26E7,5.26E6,1.41:0.59,1.26E7,5.26E6,1.41:0.59,47319,Asparagine-linked glycosylation 2 homolog (Yeast  alpha-1 3-mannosyltransferase)  isoform CRA_a OS=Rattus norvegicus GN=Alg2 PE=1 SV=1
+278,295,tr|A0A0G2JY48|A0A0G2JY48_RAT,4.41,2,2,1,Carbamidomethylation,6.44E6,2.05E6,1.52:0.48,6.44E6,2.05E6,1.52:0.48,109887,Protein Ephb2 OS=Rattus norvegicus GN=Ephb2 PE=1 SV=1
+151,225,D3ZHV2|MACF1_RAT,4.39,1,4,4,,4.5E6,1.83E6,1.42:0.58,4.5E6,1.83E6,1.42:0.58,619608,Microtubule-actin cross-linking factor 1 OS=Rattus norvegicus GN=Macf1 PE=1 SV=1
+127,234,tr|A0A0G2K7P9|A0A0G2K7P9_RAT,4.38,4,3,3,Pyro-glu from Q,8.85E6,3.6E6,1.42:0.58,8.85E6,3.6E6,1.42:0.58,93062,Protein Ncam2 OS=Rattus norvegicus GN=Ncam2 PE=1 SV=1
+232,262,Q6P5P5|MEST_RAT,4.36,19,5,5,,1.32E7,5.46E6,1.42:0.58,1.32E7,5.46E6,1.42:0.58,38879,Mesoderm-specific transcript homolog protein OS=Rattus norvegicus GN=Mest PE=2 SV=1
+197,275,P32198|CPT1A_RAT,4.35,3,2,2,,6.25E6,2.45E6,1.44:0.56,6.25E6,2.45E6,1.44:0.56,88126,Carnitine O-palmitoyltransferase 1  liver isoform OS=Rattus norvegicus GN=Cpt1a PE=1 SV=2
+332,412,P17764|THIL_RAT,4.26,6,1,1,,1.47E6,4.81E5,1.51:0.49,1.47E6,4.81E5,1.51:0.49,44695,Acetyl-CoA acetyltransferase  mitochondrial OS=Rattus norvegicus GN=Acat1 PE=1 SV=1
+304,384,tr|G3V7V3|G3V7V3_RAT,4.22,5,3,2,,5E6,2.02E6,1.43:0.57,5E6,2.02E6,1.43:0.57,72188,Protein Slc27a4 OS=Rattus norvegicus GN=Slc27a4 PE=1 SV=1
+89,135,tr|A0A0G2K719|A0A0G2K719_RAT,4.15,10,6,6,Formylation; Pyro-glu from Q,1.99E7,8.73E6,1.39:0.61,1.99E7,8.73E6,1.39:0.61,73146,Protein Ddx3x OS=Rattus norvegicus GN=Ddx3x PE=1 SV=1
+263,420,Q505J8|SYFA_RAT,4.09,3,1,1,,1.72E6,5.81E5,1.49:0.51,1.72E6,5.81E5,1.49:0.51,57720,Phenylalanine--tRNA ligase alpha subunit OS=Rattus norvegicus GN=Farsa PE=1 SV=1
+190,199,tr|D3ZH41|D3ZH41_RAT,4.06,17,4,4,Carbamylation,2.85E7,1.18E7,1.41:0.59,2.85E7,1.18E7,1.41:0.59,36316,Cytoskeleton-associated protein 4 (Predicted) OS=Rattus norvegicus GN=Ckap4 PE=1 SV=2
+73,78,tr|F1M8K0|F1M8K0_RAT,4.04,9,5,5,Carbamidomethylation; Carbamylation; Formylation,6.5E7,2.75E7,1.41:0.59,6.5E7,2.75E7,1.41:0.59,96706,Protein Dag1 OS=Rattus norvegicus GN=Dag1 PE=1 SV=1
+383,425,Q9ESR9|ABCA2_RAT,4.04,1,2,2,,6.15E6,2.56E6,1.41:0.59,6.15E6,2.56E6,1.41:0.59,270926,ATP-binding cassette sub-family A member 2 OS=Rattus norvegicus GN=Abca2 PE=1 SV=1
+110,115,P19491|GRIA2_RAT,4.02,8,5,4,Pyro-glu from Q,1.49E7,6.59E6,1.39:0.61,1.49E7,6.59E6,1.39:0.61,98688,Glutamate receptor 2 OS=Rattus norvegicus GN=Gria2 PE=1 SV=2
+258,231,Q62845|CNTN4_RAT,4.00,5,3,3,,1.01E7,4.43E6,1.39:0.61,1.01E7,4.43E6,1.39:0.61,113393,Contactin-4 OS=Rattus norvegicus GN=Cntn4 PE=1 SV=1
+216,163,Q8CGU6|NICA_RAT,3.99,8,4,4,,1.53E7,6.89E6,1.38:0.62,1.53E7,6.89E6,1.38:0.62,78400,Nicastrin OS=Rattus norvegicus GN=Ncstn PE=1 SV=1
+366,455,P20236|GBRA3_RAT,3.96,3,1,1,,1.74E6,6.07E5,1.48:0.52,1.74E6,6.07E5,1.48:0.52,55433,Gamma-aminobutyric acid receptor subunit alpha-3 OS=Rattus norvegicus GN=Gabra3 PE=1 SV=1
+17,9,Q9R1K2|TEN2_RAT,3.93,14,24,24,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation,4.25E7,1.96E7,1.37:0.63,4.25E7,1.96E7,1.37:0.63,307473,Teneurin-2 OS=Rattus norvegicus GN=Tenm2 PE=1 SV=2
+16,64,P24942|EAA1_RAT,3.93,24,15,14,Carbamidomethylation; Carbamylation; Dehydration; Formylation; Methylation(KR); 4 more,2.07E9,1E9,1.35:0.65,2.07E9,1E9,1.35:0.65,59698,Excitatory amino acid transporter 1 OS=Rattus norvegicus GN=Slc1a3 PE=1 SV=2
+195,196,tr|G3V6K6|G3V6K6_RAT,3.91,5,5,5,Carbamidomethylation,1.68E7,7.11E6,1.41:0.59,1.68E7,7.11E6,1.41:0.59,134896,Receptor protein-tyrosine kinase OS=Rattus norvegicus GN=Egfr PE=1 SV=1
+337,7240,tr|D4A9Q3|D4A9Q3_RAT,3.90,8,1,1,,5.51E6,1.95E6,1.48:0.52,5.51E6,1.95E6,1.48:0.52,15733,Protein RGD1563570 OS=Rattus norvegicus GN=RGD1563570 PE=3 SV=1
+306,431,Q6AYT7|ABD12_RAT,3.88,6,2,2,,8.29E6,3.62E6,1.39:0.61,8.29E6,3.62E6,1.39:0.61,45296,Monoacylglycerol lipase ABHD12 OS=Rattus norvegicus GN=Abhd12 PE=2 SV=1
+326,267,tr|Q8R490|Q8R490_RAT,3.88,2,1,1,,9.68E6,3.46E6,1.47:0.53,9.68E6,3.46E6,1.47:0.53,78086,Cadherin 13 OS=Rattus norvegicus GN=Cdh13 PE=1 SV=1
+497,780,tr|F1M3B3|F1M3B3_RAT,3.84,1,1,1,,2.37E6,8.46E5,1.47:0.53,2.37E6,8.46E5,1.47:0.53,199377,Protein Phip OS=Rattus norvegicus GN=Phip PE=1 SV=2
+520,955,P43244|MATR3_RAT,3.83,2,1,1,,2.55E6,9.11E5,1.47:0.53,2.55E6,9.11E5,1.47:0.53,94447,Matrin-3 OS=Rattus norvegicus GN=Matr3 PE=1 SV=2
+158,164,P55067|NCAN_RAT,3.83,8,5,5,Carbamidomethylation,1.14E7,5.06E6,1.38:0.62,1.14E7,5.06E6,1.38:0.62,135545,Neurocan core protein OS=Rattus norvegicus GN=Ncan PE=1 SV=1
+428,500,tr|M0R9K1|M0R9K1_RAT,3.82,3,1,1,,1.68E6,6.02E5,1.47:0.53,1.68E6,6.02E5,1.47:0.53,50969,Protein LOC100359916 OS=Rattus norvegicus GN=LOC100359916 PE=4 SV=2
+170,137,P70627|FOLH1_RAT,3.82,11,5,5,Carbamidomethylation,1.32E7,6.06E6,1.37:0.63,1.32E7,6.06E6,1.37:0.63,84540,Glutamate carboxypeptidase 2 OS=Rattus norvegicus GN=Folh1 PE=1 SV=1
+108,69,Q9QYP2|CELR2_RAT,3.79,6,9,9,Carbamidomethylation; Pyro-glu from Q,2.14E7,9.96E6,1.37:0.63,2.14E7,9.96E6,1.37:0.63,233479,Cadherin EGF LAG seven-pass G-type receptor 2 (Fragment) OS=Rattus norvegicus GN=Celsr2 PE=1 SV=1
+471,7253,P11167|GTR1_RAT,3.77,2,1,1,,2.77E6,1E6,1.47:0.53,2.77E6,1E6,1.47:0.53,53963,Solute carrier family 2  facilitated glucose transporter member 1 OS=Rattus norvegicus GN=Slc2a1 PE=1 SV=1
+244,336,tr|F1M2K6|F1M2K6_RAT,3.74,2,2,2,,6.13E6,2.73E6,1.38:0.62,6.13E6,2.73E6,1.38:0.62,131463,Protein Pkp4 OS=Rattus norvegicus GN=Pkp4 PE=1 SV=2
+491,690,P63088|PP1G_RAT,3.73,6,1,1,Carbamidomethylation,2.42E6,8.86E5,1.46:0.54,2.42E6,8.86E5,1.46:0.54,36984,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit OS=Rattus norvegicus GN=Ppp1cc PE=1 SV=1
+148,226,Q00657|CSPG4_RAT,3.66,3,4,4,,8.29E6,3.8E6,1.37:0.63,8.29E6,3.8E6,1.37:0.63,251906,Chondroitin sulfate proteoglycan 4 OS=Rattus norvegicus GN=Cspg4 PE=1 SV=2
+59,39,O88917|AGRL1_RAT,3.64,14,12,12,Carbamidomethylation; Oxidation (M),2.7E7,1.28E7,1.36:0.64,2.7E7,1.28E7,1.36:0.64,166614,Adhesion G protein-coupled receptor L1 OS=Rattus norvegicus GN=Adgrl1 PE=1 SV=1
+201,432,tr|A0A0G2K6F2|A0A0G2K6F2_RAT,3.62,2,4,3,Formylation,3.67E6,1.58E6,1.40:0.60,3.67E6,1.58E6,1.40:0.60,373423,Protein Csmd2 OS=Rattus norvegicus GN=Csmd2 PE=4 SV=1
+231,249,tr|F1LUC0|F1LUC0_RAT,3.60,7,3,3,Formylation,1.16E7,5.53E6,1.35:0.65,1.16E7,5.53E6,1.35:0.65,72937,Protein Sybu OS=Rattus norvegicus GN=Sybu PE=1 SV=2
+240,358,tr|F1MAP4|F1MAP4_RAT,3.58,2,2,2,Carbamidomethylation; Deamidation (NQ); Dehydration,1.05E7,4.72E6,1.38:0.62,1.05E7,4.72E6,1.38:0.62,122806,Protein Megf10 OS=Rattus norvegicus GN=Megf10 PE=4 SV=1
+401,645,tr|D3ZV50|D3ZV50_RAT,3.55,5,1,1,,3.13E6,1.19E6,1.45:0.55,3.13E6,1.19E6,1.45:0.55,22648,Protein LOC100364509 OS=Rattus norvegicus GN=LOC100364509 PE=1 SV=1
+54,51,tr|G3V881|G3V881_RAT,3.53,15,8,8,Carbamidomethylation; Formylation,1.39E8,6.87E7,1.34:0.66,1.39E8,6.87E7,1.34:0.66,69832,Leucine rich repeat neuronal 6A  isoform CRA_a OS=Rattus norvegicus GN=Lingo1 PE=1 SV=1
+312,293,tr|F1M949|F1M949_RAT,3.51,2,3,3,,1.14E7,5.46E6,1.35:0.65,1.14E7,5.46E6,1.35:0.65,187919,Protein Ckap5 OS=Rattus norvegicus GN=Ckap5 PE=1 SV=3
+492,710,Q7TP47|HNRPQ_RAT,3.50,2,1,1,,1.13E6,4.3E5,1.45:0.55,1.13E6,4.3E5,1.45:0.55,59710,Heterogeneous nuclear ribonucleoprotein Q OS=Rattus norvegicus GN=Syncrip PE=2 SV=1
+451,668,P97852|DHB4_RAT,3.49,2,1,1,,2.28E6,8.81E5,1.44:0.56,2.28E6,8.81E5,1.44:0.56,79428,Peroxisomal multifunctional enzyme type 2 OS=Rattus norvegicus GN=Hsd17b4 PE=1 SV=3
+32,28,tr|G3V667|G3V667_RAT,3.48,15,12,12,Carbamidomethylation; Formylation,4.1E7,2.01E7,1.34:0.66,4.1E7,2.01E7,1.34:0.66,119479,Integrin  alpha 6  isoform CRA_a OS=Rattus norvegicus GN=Itga6 PE=1 SV=1
+280,356,Q9EPI1|XYLT1_RAT,3.42,1,1,1,,4.75E6,1.86E6,1.44:0.56,4.75E6,1.86E6,1.44:0.56,93859,Xylosyltransferase 1 (Fragment) OS=Rattus norvegicus GN=Xylt1 PE=2 SV=1
+163,145,tr|Q32KJ5|Q32KJ5_RAT,3.42,10,5,5,Carbamylation,1.6E7,7.76E6,1.35:0.65,1.6E7,7.76E6,1.35:0.65,60914,N-acetylglucosamine-6-sulfatase OS=Rattus norvegicus GN=Gns PE=1 SV=1
+69,88,O88278|CELR3_RAT,3.40,4,7,7,Carbamidomethylation; Formylation,1.35E7,6.65E6,1.34:0.66,1.35E7,6.65E6,1.34:0.66,359356,Cadherin EGF LAG seven-pass G-type receptor 3 OS=Rattus norvegicus GN=Celsr3 PE=1 SV=1
+310,252,O88279|SLIT1_RAT,3.38,3,3,3,,4.91E6,2.27E6,1.37:0.63,4.91E6,2.27E6,1.37:0.63,167498,Slit homolog 1 protein OS=Rattus norvegicus GN=Slit1 PE=1 SV=1
+139,191,tr|A0A0G2JXZ9|A0A0G2JXZ9_RAT,3.34,7,6,6,,6.72E6,1.34E7,0.67:1.33,6.72E6,1.34E7,0.67:1.33,141816,Protein Ptprj OS=Rattus norvegicus GN=Ptprj PE=1 SV=1
+186,118,Q66HF1|NDUS1_RAT,3.30,12,5,5,Carbamidomethylation,1.3E7,6.52E6,1.33:0.67,1.3E7,6.52E6,1.33:0.67,79412,NADH-ubiquinone oxidoreductase 75 kDa subunit  mitochondrial OS=Rattus norvegicus GN=Ndufs1 PE=1 SV=1
+347,330,tr|Q4V8H7|Q4V8H7_RAT,3.30,2,2,2,Carbamidomethylation,7.24E6,3.41E6,1.36:0.64,7.24E6,3.41E6,1.36:0.64,104600,E3 ubiquitin-protein ligase OS=Rattus norvegicus GN=Wwp1 PE=1 SV=1
+43,36,tr|A0A0G2K7L2|A0A0G2K7L2_RAT,3.28,15,13,13,Carbamidomethylation; Carbamylation; Deamidation (NQ),1.62E7,8.16E6,1.33:0.67,1.62E7,8.16E6,1.33:0.67,134127,Protein Igsf3 OS=Rattus norvegicus GN=Igsf3 PE=4 SV=1
+489,680,P97694|CYH1_RAT,3.25,3,1,1,,2.43E6,9.84E5,1.42:0.58,2.43E6,9.84E5,1.42:0.58,46274,Cytohesin-1 OS=Rattus norvegicus GN=Cyth1 PE=1 SV=1
+217,188,Q9JIR4|RIMS1_RAT,3.25,5,5,5,,1.04E7,5.09E6,1.34:0.66,1.04E7,5.09E6,1.34:0.66,179654,Regulating synaptic membrane exocytosis protein 1 OS=Rattus norvegicus GN=Rims1 PE=1 SV=1
+161,130,Q63198|CNTN1_RAT,3.21,7,5,5,Carbamidomethylation,3.98E7,1.91E7,1.35:0.65,3.98E7,1.91E7,1.35:0.65,113494,Contactin-1 OS=Rattus norvegicus GN=Cntn1 PE=1 SV=2
+6,4,Q3KRE8|TBB2B_RAT,3.20,64,22,1,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation; Oxidation (M); Ubiquitin,1.98E6,8.11E5,1.42:0.58,1.98E6,8.11E5,1.42:0.58,49953,Tubulin beta-2B chain OS=Rattus norvegicus GN=Tubb2b PE=1 SV=1
+281,366,tr|F1M6F4|F1M6F4_RAT,3.18,15,2,2,,4.71E6,2.24E6,1.36:0.64,4.71E6,2.24E6,1.36:0.64,13644,Protein LOC100912210 OS=Rattus norvegicus GN=LOC100912210 PE=4 SV=1
+321,621,tr|F1LXC7|F1LXC7_RAT,3.18,5,3,3,,9.27E6,4.68E6,1.33:0.67,9.27E6,4.68E6,1.33:0.67,144816,Protein LOC100362814 OS=Rattus norvegicus GN=LOC100362814 PE=1 SV=3
+510,7266,P35565|CALX_RAT,3.13,3,1,1,,1.35E6,5.58E5,1.41:0.59,1.35E6,5.58E5,1.41:0.59,67255,Calnexin OS=Rattus norvegicus GN=Canx PE=1 SV=1
+249,329,Q767I8|PCDA4_RAT,3.12,3,2,2,,6.01E6,2.98E6,1.34:0.66,6.01E6,2.98E6,1.34:0.66,103042,Protocadherin alpha-4 OS=Rattus norvegicus GN=Pcdha4 PE=2 SV=1
+430,576,tr|F1LZB7|F1LZB7_RAT,3.05,1,1,1,,3.68E6,1.57E6,1.40:0.60,3.68E6,1.57E6,1.40:0.60,117978,Protein Frmd4b OS=Rattus norvegicus GN=Frmd4b PE=1 SV=2
+58,60,A2VD12|PBIP1_RAT,2.98,23,10,10,Carbamidomethylation; Dehydration; Formylation,9.83E7,5.01E7,1.33:0.67,9.83E7,5.01E7,1.33:0.67,80276,Pre-B-cell leukemia transcription factor-interacting protein 1 OS=Rattus norvegicus GN=Pbxip1 PE=1 SV=1
+511,7277,tr|B1WBX0|B1WBX0_RAT,2.97,5,1,1,,1.61E6,6.93E5,1.40:0.60,1.61E6,6.93E5,1.40:0.60,30837,Protein Fam57b OS=Rattus norvegicus GN=Fam57b PE=2 SV=1
+180,155,P97603|NEO1_RAT,2.90,5,4,4,Carbamidomethylation; Pyro-glu from Q,7.29E6,3.76E6,1.32:0.68,7.29E6,3.76E6,1.32:0.68,150637,Neogenin (Fragment) OS=Rattus norvegicus GN=Neo1 PE=1 SV=1
+323,246,tr|D4A7Y4|D4A7Y4_RAT,2.88,5,2,2,,5.83E6,3.01E6,1.32:0.68,5.83E6,3.01E6,1.32:0.68,95202,Protein Fam171a1 OS=Rattus norvegicus GN=Fam171a1 PE=1 SV=3
+61,116,O70277|TRIM3_RAT,2.88,21,11,11,Carbamidomethylation; Deamidation (NQ); Hydroxymethyl; Formylation; Pyro-glu from Q,1.81E7,9.79E6,1.30:0.70,1.81E7,9.79E6,1.30:0.70,80796,Tripartite motif-containing protein 3 OS=Rattus norvegicus GN=Trim3 PE=1 SV=1
+274,286,tr|D3ZSY8|D3ZSY8_RAT,2.88,10,3,3,Pyro-glu from Q,1.15E7,6.22E6,1.30:0.70,1.15E7,6.22E6,1.30:0.70,86649,Protein Tbc1d10b OS=Rattus norvegicus GN=Tbc1d10b PE=1 SV=1
+246,221,P97523|MET_RAT,2.86,2,2,2,,6.18E6,3.2E6,1.32:0.68,6.18E6,3.2E6,1.32:0.68,153941,Hepatocyte growth factor receptor OS=Rattus norvegicus GN=Met PE=1 SV=1
+485,647,tr|B1WC18|B1WC18_RAT,2.85,2,1,1,,2.72E6,1.21E6,1.38:0.62,2.72E6,1.21E6,1.38:0.62,65010,Podocalyxin-like 2 OS=Rattus norvegicus GN=Podxl2 PE=2 SV=1
+411,799,tr|B1WBY5|B1WBY5_RAT,2.77,2,1,1,Carbamidomethylation,1.58E6,7.14E5,1.38:0.62,1.58E6,7.14E5,1.38:0.62,63205,DnaJ (Hsp40) homolog  subfamily C  member 11 OS=Rattus norvegicus GN=Dnajc11 PE=1 SV=1
+214,305,tr|D3ZCT7|D3ZCT7_RAT,2.74,7,4,1,Acetylation (Protein N-term); Carbamylation,1.83E6,8.34E5,1.37:0.63,1.83E6,8.34E5,1.37:0.63,86355,Protein Sec23b OS=Rattus norvegicus GN=Sec23b PE=1 SV=2
+113,97,Q66HA5|C2D1A_RAT,2.71,10,7,7,Carbamidomethylation; Pyro-glu from Q,1.5E7,8.16E6,1.30:0.70,1.5E7,8.16E6,1.30:0.70,103587,Coiled-coil and C2 domain-containing protein 1A OS=Rattus norvegicus GN=Cc2d1a PE=1 SV=2
+351,365,O35764|NPTXR_RAT,2.70,5,2,2,,8.05E6,4.29E6,1.30:0.70,8.05E6,4.29E6,1.30:0.70,52371,Neuronal pentraxin receptor OS=Rattus norvegicus GN=Nptxr PE=1 SV=1
+289,253,Q794F9|4F2_RAT,2.69,11,3,3,,8.78E6,4.84E6,1.29:0.71,8.78E6,4.84E6,1.29:0.71,58072,4F2 cell-surface antigen heavy chain OS=Rattus norvegicus GN=Slc3a2 PE=1 SV=1
+64,110,Q99JD4|CLAP2_RAT,2.66,12,10,7,Carbamidomethylation; Formylation,1.4E7,7.85E6,1.28:0.72,1.4E7,7.85E6,1.28:0.72,140637,CLIP-associating protein 2 OS=Rattus norvegicus GN=Clasp2 PE=1 SV=1
+261,322,Q8CHN6|SGPL1_RAT,2.55,3,1,1,,2.29E6,1.09E6,1.35:0.65,2.29E6,1.09E6,1.35:0.65,63758,Sphingosine-1-phosphate lyase 1 OS=Rattus norvegicus GN=Sgpl1 PE=2 SV=1
+49,45,Q64428|ECHA_RAT,2.54,19,11,11,Carbamidomethylation; Carbamylation; Formylation,2.29E7,1.18E7,1.32:0.68,2.29E7,1.18E7,1.32:0.68,82665,Trifunctional enzyme subunit alpha  mitochondrial OS=Rattus norvegicus GN=Hadha PE=1 SV=2
+384,426,tr|F1MAS4|F1MAS4_RAT,2.51,1,2,2,,2.42E6,1.3E6,1.30:0.70,2.42E6,1.3E6,1.30:0.70,300928,Protein Celsr1 OS=Rattus norvegicus GN=Celsr1 PE=3 SV=3
+105,77,Q641Y8|DDX1_RAT,2.49,13,7,7,Carbamidomethylation; Carbamylation,1.98E7,1.15E7,1.27:0.73,1.98E7,1.15E7,1.27:0.73,82497,ATP-dependent RNA helicase DDX1 OS=Rattus norvegicus GN=Ddx1 PE=1 SV=1
+494,732,P62260|1433E_RAT,2.49,5,1,1,Carbamidomethylation,2.73E6,1.32E6,1.35:0.65,2.73E6,1.32E6,1.35:0.65,29174,14-3-3 protein epsilon OS=Rattus norvegicus GN=Ywhae PE=1 SV=1
+8,5,P69897|TBB5_RAT,2.47,55,20,2,Carbamidomethylation; Carbamylation; Deamidation (NQ); Dehydration; Formylation; 3 more,7.99E7,4.74E7,1.26:0.74,7.99E7,4.74E7,1.26:0.74,49671,Tubulin beta-5 chain OS=Rattus norvegicus GN=Tubb5 PE=1 SV=1
+279,314,tr|F1LMW0|F1LMW0_RAT,2.47,3,1,1,,1.66E6,8.08E5,1.35:0.65,1.66E6,8.08E5,1.35:0.65,47323,Protein Tmem130 OS=Rattus norvegicus GN=Tmem130 PE=4 SV=2
+247,271,tr|D4AA77|D4AA77_RAT,2.47,3,3,3,Carbamidomethylation,8.35E6,4.76E6,1.27:0.73,8.35E6,4.76E6,1.27:0.73,190134,Plexin D1 (Predicted) OS=Rattus norvegicus GN=Plxnd1 PE=1 SV=2
+409,754,Q91ZW1|TFAM_RAT,2.46,3,1,1,Carbamidomethylation,4.25E6,2.07E6,1.34:0.66,4.25E6,2.07E6,1.34:0.66,28187,Transcription factor A  mitochondrial OS=Rattus norvegicus GN=Tfam PE=2 SV=1
+202,192,P0C5W1|MAP1S_RAT,2.45,3,2,2,Formylation,1E7,5.83E6,1.27:0.73,1E7,5.83E6,1.27:0.73,102806,Microtubule-associated protein 1S OS=Rattus norvegicus GN=Map1s PE=1 SV=1
+147,198,P17077|RL9_RAT,2.39,35,6,6,Deamidation (NQ),4.09E7,2.42E7,1.26:0.74,4.09E7,2.42E7,1.26:0.74,21893,60S ribosomal protein L9 OS=Rattus norvegicus GN=Rpl9 PE=1 SV=1
+164,174,P11730|KCC2G_RAT,2.35,9,4,2,Carbamylation,6.55E6,3.77E6,1.27:0.73,6.55E6,3.77E6,1.27:0.73,59038,Calcium/calmodulin-dependent protein kinase type II subunit gamma OS=Rattus norvegicus GN=Camk2g PE=1 SV=1
+146,179,Q498R3|DJC10_RAT,2.34,10,5,5,,9.77E6,5.82E6,1.25:0.75,9.77E6,5.82E6,1.25:0.75,90747,DnaJ homolog subfamily C member 10 OS=Rattus norvegicus GN=Dnajc10 PE=2 SV=2
+121,124,tr|D3ZW09|D3ZW09_RAT,2.32,8,7,7,Carbamidomethylation,9.39E6,5.49E6,1.26:0.74,9.39E6,5.49E6,1.26:0.74,128825,Protein Sorcs2 OS=Rattus norvegicus GN=Sorcs2 PE=1 SV=3
+487,653,P83732|RL24_RAT,2.31,5,1,1,,3.18E6,1.61E6,1.33:0.67,3.18E6,1.61E6,1.33:0.67,17779,60S ribosomal protein L24 OS=Rattus norvegicus GN=Rpl24 PE=2 SV=1
+376,353,P19527|NFL_RAT,2.27,4,2,1,,3.55E6,1.82E6,1.32:0.68,3.55E6,1.82E6,1.32:0.68,61335,Neurofilament light polypeptide OS=Rattus norvegicus GN=Nefl PE=1 SV=3
+124,186,tr|D3ZN95|D3ZN95_RAT,2.23,5,5,5,Carbamidomethylation,1.33E7,7.94E6,1.25:0.75,1.33E7,7.94E6,1.25:0.75,209151,Protein Hcfc1 OS=Rattus norvegicus GN=Hcfc1 PE=1 SV=1
+483,608,Q68FV6|GLMP_RAT,2.22,5,1,1,Carbamidomethylation,1.73E6,8.93E5,1.32:0.68,1.73E6,8.93E5,1.32:0.68,43871,Glycosylated lysosomal membrane protein OS=Rattus norvegicus GN=Glmp PE=2 SV=1
+460,779,tr|D4A758|D4A758_RAT,2.17,2,1,1,,1.86E6,9.72E5,1.31:0.69,1.86E6,9.72E5,1.31:0.69,92211,Protein Lrrc8b OS=Rattus norvegicus GN=Lrrc8b PE=1 SV=1
+354,490,tr|Q6AY21|Q6AY21_RAT,2.17,6,2,1,,1.31E7,6.87E6,1.31:0.69,1.31E7,6.87E6,1.31:0.69,50770,GTPase activating protein (SH3 domain) binding protein 2 OS=Rattus norvegicus GN=G3bp2 PE=1 SV=1
+452,685,B5DEL3|TTC17_RAT,2.15,1,1,1,,1.69E6,8.85E5,1.31:0.69,1.69E6,8.85E5,1.31:0.69,135721,Tetratricopeptide repeat protein 17 OS=Rattus norvegicus GN=Ttc17 PE=1 SV=1
+241,237,tr|D4A5I4|D4A5I4_RAT,2.15,1,2,2,,2.52E6,4.4E6,0.73:1.27,2.52E6,4.4E6,0.73:1.27,231548,Protein Nav1 OS=Rattus norvegicus GN=Nav1 PE=1 SV=3
+299,283,P54757|EPHA5_RAT,2.14,3,3,1,Carbamidomethylation,2.49E6,1.31E6,1.31:0.69,2.49E6,1.31E6,1.31:0.69,111007,Ephrin type-A receptor 5 OS=Rattus norvegicus GN=Epha5 PE=1 SV=1
+103,131,P97629|LCAP_RAT,2.09,12,10,10,Carbamidomethylation; Pyro-glu from Q,2.38E7,1.32E7,1.29:0.71,2.38E7,1.32E7,1.29:0.71,117201,Leucyl-cystinyl aminopeptidase OS=Rattus norvegicus GN=Lnpep PE=1 SV=1
+234,458,Q6IMF3|K2C1_RAT,2.07,4,2,1,,1.21E6,6.48E5,1.30:0.70,1.21E6,6.48E5,1.30:0.70,64831,Keratin  type II cytoskeletal 1 OS=Rattus norvegicus GN=Krt1 PE=2 SV=1
+130,125,Q62656|PTPRZ_RAT,2.05,4,6,6,Pyro-glu from Q,1.01E7,6.35E6,1.23:0.77,1.01E7,6.35E6,1.23:0.77,255340,Receptor-type tyrosine-protein phosphatase zeta OS=Rattus norvegicus GN=Ptprz1 PE=1 SV=1
+418,2735,tr|A0A0G2K929|A0A0G2K929_RAT,1.94,1,1,1,,5.88E6,1.06E7,0.72:1.28,5.88E6,1.06E7,0.72:1.28,320733,Protein Cep290 OS=Rattus norvegicus GN=Cep290 PE=4 SV=1
+24,33,Q63372|NRX1A_RAT,1.92,18,17,15,Carbamidomethylation; Carbamylation; Deamidation (NQ); Formylation,3.05E7,1.97E7,1.22:0.78,3.05E7,1.97E7,1.22:0.78,167922,Neurexin-1 OS=Rattus norvegicus GN=Nrxn1 PE=1 SV=3
+391,537,Q5I0H4|TMCO1_RAT,1.90,8,1,1,,5.76E6,3.24E6,1.28:0.72,5.76E6,3.24E6,1.28:0.72,21175,Calcium load-activated calcium channel OS=Rattus norvegicus GN=Tmco1 PE=2 SV=1
+414,468,tr|D3ZD23|D3ZD23_RAT,1.88,3,1,1,,4.47E6,2.53E6,1.28:0.72,4.47E6,2.53E6,1.28:0.72,67300,ATP-binding cassette  sub-family E (OABP)  member 1 OS=Rattus norvegicus GN=Abce1 PE=1 SV=1
+516,7416,tr|D4A1V8|D4A1V8_RAT,1.87,1,1,1,,2.12E6,3.75E6,0.72:1.28,2.12E6,3.75E6,0.72:1.28,133945,Protein Dzip3 OS=Rattus norvegicus GN=Dzip3 PE=1 SV=3
+72,177,tr|D3ZB81|D3ZB81_RAT,1.83,12,7,1,Deamidation (NQ); Formylation; Carbamylation; Methylation(KR),7.84E6,4.51E6,1.27:0.73,7.84E6,4.51E6,1.27:0.73,35227,Protein Slc25a31 OS=Rattus norvegicus GN=Slc25a31 PE=3 SV=3
+415,480,O35795|ENTP2_RAT,1.81,3,1,1,,1.67E7,9.67E6,1.27:0.73,1.67E7,9.67E6,1.27:0.73,54390,Ectonucleoside triphosphate diphosphohydrolase 2 OS=Rattus norvegicus GN=Entpd2 PE=1 SV=1
+458,759,O35763|MOES_RAT,1.78,2,1,1,,1.55E6,2.68E6,0.73:1.27,1.55E6,2.68E6,0.73:1.27,67739,Moesin OS=Rattus norvegicus GN=Msn PE=1 SV=3
+387,459,Q8K1M8|BRNP2_RAT,1.78,3,1,1,,2.4E6,1.39E6,1.27:0.73,2.4E6,1.39E6,1.27:0.73,89139,BMP/retinoic acid-inducible neural-specific protein 2 OS=Rattus norvegicus GN=Brinp2 PE=2 SV=1
+23,25,Q5XIF6|TBA4A_RAT,1.72,50,15,2,Carbamidomethylation; Carbamylation; Formylation; Oxidation (M); Glycidamide adduct,2.01E7,1.32E7,1.21:0.79,2.01E7,1.32E7,1.21:0.79,49924,Tubulin alpha-4A chain OS=Rattus norvegicus GN=Tuba4a PE=1 SV=1
+517,906,O55005|ROBO1_RAT,1.67,1,1,1,,1.59E6,9.47E5,1.25:0.75,1.59E6,9.47E5,1.25:0.75,180747,Roundabout homolog 1 OS=Rattus norvegicus GN=Robo1 PE=1 SV=1
+446,642,Q5M9G3|CAPR1_RAT,1.64,2,1,1,,3.7E6,2.22E6,1.25:0.75,3.7E6,2.22E6,1.25:0.75,78121,Caprin-1 OS=Rattus norvegicus GN=Caprin1 PE=1 SV=2
+412,864,tr|D4A8N1|D4A8N1_RAT,1.64,8,1,1,,2.17E6,1.31E6,1.25:0.75,2.17E6,1.31E6,1.25:0.75,29250,Protein Dpm1 OS=Rattus norvegicus GN=Dpm1 PE=1 SV=1
+357,1038,Q9QUH6|SYGP1_RAT,1.63,1,1,1,,3.18E6,1.92E6,1.25:0.75,3.18E6,1.92E6,1.25:0.75,144722,Ras/Rap GTPase-activating protein SynGAP OS=Rattus norvegicus GN=Syngap1 PE=1 SV=2
+27,22,tr|D4A435|D4A435_RAT,1.53,27,16,16,Carbamidomethylation; Carbamylation; Deamidation (NQ); Dehydration; Pyro-glu from Q; Formylation,5.39E7,3.85E7,1.17:0.83,5.39E7,3.85E7,1.17:0.83,96905,Protein Icam5 OS=Rattus norvegicus GN=Icam5 PE=4 SV=1
+447,649,tr|A0A0G2K0W3|A0A0G2K0W3_RAT,1.50,3,1,1,,3.12E6,1.95E6,1.23:0.77,3.12E6,1.95E6,1.23:0.77,57961,Protein tweety homolog OS=Rattus norvegicus GN=Ttyh3 PE=1 SV=1
+469,891,tr|F1M024|F1M024_RAT,1.49,1,1,1,,7.27E6,4.57E6,1.23:0.77,7.27E6,4.57E6,1.23:0.77,72165,Uncharacterized protein OS=Rattus norvegicus PE=1 SV=2
+403,655,tr|F1LYJ8|F1LYJ8_RAT,1.49,2,1,1,,2.01E6,1.26E6,1.23:0.77,2.01E6,1.26E6,1.23:0.77,69556,Protein Gramd4 OS=Rattus norvegicus GN=Gramd4 PE=1 SV=2
+20,21,tr|F1LV44|F1LV44_RAT,1.49,15,22,22,Carbamidomethylation; Acetylation (N-term); Deamidation (NQ); Formylation; Phosphorylation (STY),1.94E7,1.36E7,1.18:0.82,1.94E7,1.36E7,1.18:0.82,283736,Protein Tenm3 OS=Rattus norvegicus GN=Tenm3 PE=4 SV=3
+369,477,Q80W89|NDUAB_RAT,1.47,16,1,1,Carbamidomethylation,2.94E6,1.85E6,1.23:0.77,2.94E6,1.85E6,1.23:0.77,14854,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11 OS=Rattus norvegicus GN=Ndufa11 PE=2 SV=1
+503,866,tr|D3ZSF0|D3ZSF0_RAT,1.40,2,1,1,,1.24E7,8E6,1.22:0.78,1.24E7,8E6,1.22:0.78,48439,Protein Fam217b OS=Rattus norvegicus GN=Fam217b PE=4 SV=1
+282,440,Q9QWJ9|NRP1_RAT,1.40,4,2,2,,9.22E6,6.49E6,1.17:0.83,9.22E6,6.49E6,1.17:0.83,103082,Neuropilin-1 OS=Rattus norvegicus GN=Nrp1 PE=1 SV=1
+405,689,tr|D3ZN99|D3ZN99_RAT,1.39,1,1,1,,1.7E6,1.1E6,1.22:0.78,1.7E6,1.1E6,1.22:0.78,169650,Brain-specific angiogenesis inhibitor 2 (Predicted) OS=Rattus norvegicus GN=Adgrb2 PE=1 SV=1
+439,7245,Q02563|SV2A_RAT,1.38,2,1,1,,1.01E6,6.53E5,1.22:0.78,1.01E6,6.53E5,1.22:0.78,82661,Synaptic vesicle glycoprotein 2A OS=Rattus norvegicus GN=Sv2a PE=1 SV=2
+382,424,tr|F7EYB9|F7EYB9_RAT,1.35,8,2,2,,7.43E6,5.11E6,1.18:0.82,7.43E6,5.11E6,1.18:0.82,49581,Protein Omg OS=Rattus norvegicus GN=Omg PE=4 SV=1
+490,686,Q5PQL5|PTSS1_RAT,1.32,3,1,1,,4.75E6,3.13E6,1.21:0.79,4.75E6,3.13E6,1.21:0.79,55664,Phosphatidylserine synthase 1 OS=Rattus norvegicus GN=Ptdss1 PE=2 SV=1
+450,667,P42893|ECE1_RAT,1.30,2,1,1,,3.07E6,2.03E6,1.20:0.80,3.07E6,2.03E6,1.20:0.80,86126,Endothelin-converting enzyme 1 OS=Rattus norvegicus GN=Ece1 PE=1 SV=2
+426,479,Q9Z1W6|LYRIC_RAT,1.29,2,1,1,,1.85E6,1.22E6,1.20:0.80,1.85E6,1.22E6,1.20:0.80,63969,Protein LYRIC OS=Rattus norvegicus GN=Mtdh PE=1 SV=2
+331,368,Q5MPA9|DCLK2_RAT,1.28,3,2,2,,2.13E6,1.52E6,1.17:0.83,2.13E6,1.52E6,1.17:0.83,84016,Serine/threonine-protein kinase DCLK2 OS=Rattus norvegicus GN=Dclk2 PE=1 SV=2
+207,433,P11505|AT2B1_RAT,1.27,3,2,2,,6.05E6,4.35E6,1.16:0.84,6.05E6,4.35E6,1.16:0.84,138719,Plasma membrane calcium-transporting ATPase 1 OS=Rattus norvegicus GN=Atp2b1 PE=1 SV=2
+417,772,Q6P7A9|LYAG_RAT,1.25,3,1,1,,2.38E6,1.71E6,1.16:0.84,2.38E6,1.71E6,1.16:0.84,106207,Lysosomal alpha-glucosidase OS=Rattus norvegicus GN=Gaa PE=2 SV=1
+153,266,tr|E9PT92|E9PT92_RAT,1.24,4,6,5,Formylation,9.4E6,6.93E6,1.15:0.85,9.4E6,6.93E6,1.15:0.85,331991,Protein Csmd1 OS=Rattus norvegicus GN=Csmd1 PE=4 SV=2
+182,154,Q8K3V3|AGRG1_RAT,1.21,14,5,5,Formylation,6.99E7,5.24E7,1.14:0.86,6.99E7,5.24E7,1.14:0.86,77252,Adhesion G-protein coupled receptor G1 OS=Rattus norvegicus GN=Adgrg1 PE=1 SV=1
+85,121,tr|A0A0G2JZ52|A0A0G2JZ52_RAT,1.21,14,7,7,Carbamidomethylation; Formylation; Carbamylation,9.59E7,7.25E7,1.14:0.86,9.59E7,7.25E7,1.14:0.86,87932,Protein Hnrnpu OS=Rattus norvegicus GN=Hnrnpu PE=1 SV=1
+283,454,P04256|ROA1_RAT,1.20,5,1,1,,5.76E6,3.93E6,1.19:0.81,5.76E6,3.93E6,1.19:0.81,34212,Heterogeneous nuclear ribonucleoprotein A1 OS=Rattus norvegicus GN=Hnrnpa1 PE=1 SV=3
+368,462,Q9Z1Y3|CADH2_RAT,1.18,3,1,1,,3.55E6,2.43E6,1.19:0.81,3.55E6,2.43E6,1.19:0.81,99686,Cadherin-2 OS=Rattus norvegicus GN=Cdh2 PE=1 SV=1
+470,7247,F1LYQ8|FARP1_RAT,1.15,1,1,1,,1.42E6,9.79E5,1.18:0.82,1.42E6,9.79E5,1.18:0.82,118842,FERM  RhoGEF and pleckstrin domain-containing protein 1 OS=Rattus norvegicus GN=Farp1 PE=1 SV=2
+259,304,P62914|RL11_RAT,1.15,8,1,1,Formylation,2.34E6,3.39E6,0.82:1.18,2.34E6,3.39E6,0.82:1.18,20252,60S ribosomal protein L11 OS=Rattus norvegicus GN=Rpl11 PE=1 SV=2
+48,55,tr|D3ZN27|D3ZN27_RAT,1.13,7,12,12,Carbamidomethylation; Deamidation (NQ); Ammonia-loss (N),1.33E7,1.01E7,1.14:0.86,1.33E7,1.01E7,1.14:0.86,254506,Protein Dnajc13 OS=Rattus norvegicus GN=Dnajc13 PE=1 SV=2
+335,447,P25286|VPP1_RAT,1.12,2,1,1,,1.55E6,1.08E6,1.18:0.82,1.55E6,1.08E6,1.18:0.82,96328,V-type proton ATPase 116 kDa subunit a isoform 1 OS=Rattus norvegicus GN=Atp6v0a1 PE=2 SV=1
+362,394,tr|D3ZWE0|D3ZWE0_RAT,1.12,15,1,1,,1.98E6,2.85E6,0.82:1.18,1.98E6,2.85E6,0.82:1.18,13999,Histone H2A OS=Rattus norvegicus GN=Hist2h2ab PE=3 SV=1
+226,175,Q5U308|LRC8D_RAT,1.11,6,4,4,,6.96E6,5.21E6,1.14:0.86,6.96E6,5.21E6,1.14:0.86,97940,Volume-regulated anion channel subunit LRRC8D OS=Rattus norvegicus GN=Lrrc8d PE=2 SV=1
+184,222,Q9QYP0|MEGF8_RAT,1.06,3,5,5,,4.12E6,5.61E6,0.85:1.15,4.12E6,5.61E6,0.85:1.15,297554,Multiple epidermal growth factor-like domains protein 8 OS=Rattus norvegicus GN=Megf8 PE=1 SV=2
+380,410,P84903|STIM1_RAT,1.05,3,2,2,,7.79E6,5.92E6,1.14:0.86,7.79E6,5.92E6,1.14:0.86,77449,Stromal interaction molecule 1 OS=Rattus norvegicus GN=Stim1 PE=1 SV=1
+398,624,P85834|EFTU_RAT,1.00,4,1,1,,2.58E6,1.86E6,1.16:0.84,2.58E6,1.86E6,1.16:0.84,49522,Elongation factor Tu  mitochondrial OS=Rattus norvegicus GN=Tufm PE=1 SV=1
+338,7251,Q6P7C7|GPNMB_RAT,0.97,3,1,1,,2.9E6,3.99E6,0.84:1.16,2.9E6,3.99E6,0.84:1.16,63732,Transmembrane glycoprotein NMB OS=Rattus norvegicus GN=Gpnmb PE=2 SV=1
+416,669,P19493|GRIA4_RAT,0.97,3,2,1,Pyro-glu from Q,2.33E6,1.7E6,1.16:0.84,2.33E6,1.7E6,1.16:0.84,100758,Glutamate receptor 4 OS=Rattus norvegicus GN=Gria4 PE=1 SV=1
+52,50,Q9Z0U4|GABR1_RAT,0.94,12,10,10,Carbamidomethylation; Formylation,4.68E7,3.75E7,1.11:0.89,4.68E7,3.75E7,1.11:0.89,111534,Gamma-aminobutyric acid type B receptor subunit 1 OS=Rattus norvegicus GN=Gabbr1 PE=1 SV=1
+472,7262,tr|E9PSU5|E9PSU5_RAT,0.91,4,1,1,,4.94E6,3.66E6,1.15:0.85,4.94E6,3.66E6,1.15:0.85,36887,Uncharacterized protein OS=Rattus norvegicus PE=1 SV=2
+123,151,tr|E9PTR4|E9PTR4_RAT,0.90,8,5,5,Deamidation (NQ); Formylation,1.25E7,1.59E7,0.88:1.12,1.25E7,1.59E7,0.88:1.12,116862,Protein Ubap2l OS=Rattus norvegicus GN=Ubap2l PE=1 SV=2
+320,616,tr|D4A3L3|D4A3L3_RAT,0.89,2,1,1,,4.27E6,3.19E6,1.15:0.85,4.27E6,3.19E6,1.15:0.85,62887,EGF-like-domain  multiple 5 (Predicted) OS=Rattus norvegicus GN=Megf9 PE=4 SV=1
+449,666,tr|A0A0G2K1Z9|A0A0G2K1Z9_RAT,0.86,3,1,1,,8.6E6,6.48E6,1.14:0.86,8.6E6,6.48E6,1.14:0.86,41776,Histocompatibility 13 (Predicted)  isoform CRA_d OS=Rattus norvegicus GN=Hm13 PE=1 SV=1
+476,7408,tr|Q566R4|Q566R4_RAT,0.79,7,1,1,,2.67E6,3.47E6,0.87:1.13,2.67E6,3.47E6,0.87:1.13,20168,Mammary tumor virus receptor 2 OS=Rattus norvegicus GN=Fam89b PE=2 SV=1
+507,1204,tr|A0A0G2JXT9|A0A0G2JXT9_RAT,0.77,0,1,1,,4.47E6,3.45E6,1.13:0.87,4.47E6,3.45E6,1.13:0.87,222020,Protein Arhgef17 OS=Rattus norvegicus GN=Arhgef17 PE=1 SV=1
+495,751,Q8CFG5|CA2D3_RAT,0.75,2,1,1,,1.25E6,9.72E5,1.13:0.87,1.25E6,9.72E5,1.13:0.87,122204,Voltage-dependent calcium channel subunit alpha-2/delta-3 OS=Rattus norvegicus GN=Cacna2d3 PE=1 SV=1
+253,235,tr|D3ZYS7|D3ZYS7_RAT,0.70,9,3,2,,1.35E7,1.12E7,1.09:0.91,1.35E7,1.12E7,1.09:0.91,51787,Protein G3bp1 OS=Rattus norvegicus GN=G3bp1 PE=1 SV=1
+390,523,tr|D3ZAS1|D3ZAS1_RAT,0.69,4,1,1,,5.22E6,4.13E6,1.12:0.88,5.22E6,4.13E6,1.12:0.88,30872,Protein RGD1562399 OS=Rattus norvegicus GN=RGD1562399 PE=3 SV=3
+293,289,P15205|MAP1B_RAT,0.69,1,1,1,,1.4E6,1.11E6,1.12:0.88,1.4E6,1.11E6,1.12:0.88,269497,Microtubule-associated protein 1B OS=Rattus norvegicus GN=Map1b PE=1 SV=2
+245,193,O88923|AGRL2_RAT,0.61,2,2,1,Formylation,1.85E6,1.51E6,1.10:0.90,1.85E6,1.51E6,1.10:0.90,166728,Adhesion G protein-coupled receptor L2 OS=Rattus norvegicus GN=Adgrl2 PE=1 SV=2
+336,452,tr|F1LRA0|F1LRA0_RAT,0.61,1,1,1,,4.12E6,5.07E6,0.90:1.10,4.12E6,5.07E6,0.90:1.10,87583,Protein Pcdhga4 OS=Rattus norvegicus GN=Pcdhga4 PE=4 SV=1
+314,407,Q80Z70|SE1L1_RAT,0.58,4,2,2,,4.27E6,3.63E6,1.08:0.92,4.27E6,3.63E6,1.08:0.92,88683,Protein sel-1 homolog 1 OS=Rattus norvegicus GN=Sel1l PE=2 SV=2
+210,213,tr|M0R6E0|M0R6E0_RAT,0.55,8,5,5,Carbamidomethylation; Pyro-glu from Q,1.25E7,1.08E7,1.07:0.93,1.25E7,1.08E7,1.07:0.93,90851,Phospholipid-transporting ATPase OS=Rattus norvegicus GN=Atp9a PE=1 SV=2
+484,632,D3ZEH5|SIDT2_RAT,0.54,2,1,1,,6.21E5,5.15E5,1.09:0.91,6.21E5,5.15E5,1.09:0.91,94527,SID1 transmembrane family member 2 OS=Rattus norvegicus GN=Sidt2 PE=1 SV=2
+265,506,tr|D3ZX87|D3ZX87_RAT,0.51,10,1,1,,3.99E6,3.35E6,1.09:0.91,3.99E6,3.35E6,1.09:0.91,16321,Protein LOC100910017 OS=Rattus norvegicus GN=LOC100910017 PE=4 SV=2
+181,291,Q5FVC2|ARHG2_RAT,0.48,4,3,3,Carbamidomethylation,9.66E6,8.54E6,1.06:0.94,9.66E6,8.54E6,1.06:0.94,111909,Rho guanine nucleotide exchange factor 2 OS=Rattus norvegicus GN=Arhgef2 PE=1 SV=1
+473,7265,P17955|NUP62_RAT,0.48,3,1,1,,3.12E6,3.67E6,0.92:1.08,3.12E6,3.67E6,0.92:1.08,53397,Nuclear pore glycoprotein p62 OS=Rattus norvegicus GN=Nup62 PE=1 SV=1
+243,215,P31424|GRM5_RAT,0.45,2,1,1,Carbamidomethylation,2.7E6,3.16E6,0.92:1.08,2.7E6,3.16E6,0.92:1.08,131885,Metabotropic glutamate receptor 5 OS=Rattus norvegicus GN=Grm5 PE=1 SV=2
+361,372,tr|D3ZH53|D3ZH53_RAT,0.43,9,1,1,,1.13E7,9.76E6,1.07:0.93,1.13E7,9.76E6,1.07:0.93,18620,Protein RGD1561871 OS=Rattus norvegicus GN=RGD1561871 PE=4 SV=1
+514,7328,Q80Z32|ORC1_RAT,0.40,1,1,1,,1.14E6,1.31E6,0.93:1.07,1.14E6,1.31E6,0.93:1.07,95760,Origin recognition complex subunit 1 OS=Rattus norvegicus GN=Orc1 PE=2 SV=1
+466,845,Q3MIB4|LONP2_RAT,0.39,2,1,1,,1.06E6,9.28E5,1.07:0.93,1.06E6,9.28E5,1.07:0.93,94393,Lon protease homolog 2  peroxisomal OS=Rattus norvegicus GN=Lonp2 PE=1 SV=2
+392,561,P49655|KCJ10_RAT,0.37,3,1,1,,2.35E6,2.06E6,1.06:0.94,2.35E6,2.06E6,1.06:0.94,42480,ATP-sensitive inward rectifier potassium channel 10 OS=Rattus norvegicus GN=Kcnj10 PE=1 SV=1
+156,238,tr|A0A096MIX2|A0A096MIX2_RAT,0.36,8,4,1,Carbamidomethylation; Formylation,1.21E6,1.07E6,1.06:0.94,1.21E6,1.07E6,1.06:0.94,72645,DEAD (Asp-Glu-Ala-Asp) box polypeptide 17  isoform CRA_a OS=Rattus norvegicus GN=Ddx17 PE=1 SV=1
+221,230,P63138|GBRB2_RAT,0.34,11,5,2,,6.85E6,6.22E6,1.05:0.95,6.85E6,6.22E6,1.05:0.95,54634,Gamma-aminobutyric acid receptor subunit beta-2 OS=Rattus norvegicus GN=Gabrb2 PE=1 SV=1
+488,658,Q9R0J8|LGMN_RAT,0.34,4,1,1,,2.87E6,2.55E6,1.06:0.94,2.87E6,2.55E6,1.06:0.94,49466,Legumain OS=Rattus norvegicus GN=Lgmn PE=1 SV=1
+55,48,P15146|MTAP2_RAT,0.30,9,10,10,Carbamidomethylation; Formylation; Pyro-glu from Q,1.9E7,1.75E7,1.04:0.96,1.9E7,1.75E7,1.04:0.96,202409,Microtubule-associated protein 2 OS=Rattus norvegicus GN=Map2 PE=1 SV=3
+271,259,B5DF41|SNPH_RAT,0.29,3,1,1,Pyro-glu from Q,2.09E6,2.32E6,0.95:1.05,2.09E6,2.32E6,0.95:1.05,54494,Syntaphilin OS=Rattus norvegicus GN=Snph PE=1 SV=1
+419,463,Q66HR0|S12A9_RAT,0.28,2,1,1,Carbamidomethylation,2.53E6,2.29E6,1.05:0.95,2.53E6,2.29E6,1.05:0.95,96005,Solute carrier family 12 member 9 OS=Rattus norvegicus GN=Slc12a9 PE=1 SV=1
+223,277,tr|A0A0G2JVW3|A0A0G2JVW3_RAT,0.28,3,5,5,Pyro-glu from Q,4.74E6,5.11E6,0.96:1.04,4.74E6,5.11E6,0.96:1.04,267310,Protein Ankrd17 OS=Rattus norvegicus GN=Ankrd17 PE=1 SV=1
+340,307,O88871|GABR2_RAT,0.26,1,1,1,,2.6E6,2.37E6,1.05:0.95,2.6E6,2.37E6,1.05:0.95,105751,Gamma-aminobutyric acid type B receptor subunit 2 OS=Rattus norvegicus GN=Gabbr2 PE=1 SV=2
+353,442,tr|D4A062|D4A062_RAT,0.23,3,2,1,,2.05E6,1.88E6,1.04:0.96,2.05E6,1.88E6,1.04:0.96,109236,Protein Slitrk3 OS=Rattus norvegicus GN=Slitrk3 PE=1 SV=1
+468,880,tr|A0A0G2KBA1|A0A0G2KBA1_RAT,0.19,5,1,1,,7.77E5,7.27E5,1.03:0.97,7.77E5,7.27E5,1.03:0.97,31927,Uncharacterized protein OS=Rattus norvegicus PE=1 SV=1
+138,7238,tr|A0A0G2K8K0|A0A0G2K8K0_RAT,0.16,5,2,2,,2.04E7,1.95E7,1.02:0.98,2.04E7,1.95E7,1.02:0.98,75086,Protein Sfpq OS=Rattus norvegicus GN=Sfpq PE=1 SV=1
+222,263,O88496|VKGC_RAT,0.13,4,2,2,,6.67E6,6.44E6,1.02:0.98,6.67E6,6.44E6,1.02:0.98,87479,Vitamin K-dependent gamma-carboxylase OS=Rattus norvegicus GN=Ggcx PE=1 SV=1
+260,321,tr|D4AA63|D4AA63_RAT,0.10,8,3,3,Formylation,1.89E7,1.94E7,0.99:1.01,1.89E7,1.94E7,0.99:1.01,67260,Protein Ubqln2 OS=Rattus norvegicus GN=Ubqln2 PE=1 SV=1
+388,460,Q99M75|RTN4R_RAT,0.09,12,2,2,Carbamidomethylation,4.31E6,4.42E6,0.99:1.01,4.31E6,4.42E6,0.99:1.01,50851,Reticulon-4 receptor OS=Rattus norvegicus GN=Rtn4r PE=1 SV=2
+461,789,O70595|ABCB6_RAT,0.09,2,1,1,,1.42E6,1.47E6,0.98:1.02,1.42E6,1.47E6,0.98:1.02,93305,ATP-binding cassette sub-family B member 6  mitochondrial OS=Rattus norvegicus GN=Abcb6 PE=2 SV=1
+350,364,tr|D3ZXQ2|D3ZXQ2_RAT,0.08,4,2,2,Carbamidomethylation,3.87E6,3.96E6,0.99:1.01,3.87E6,3.96E6,0.99:1.01,136738,Protein Camsap3 OS=Rattus norvegicus GN=Camsap3 PE=1 SV=2
+96,91,tr|F1M3J7|F1M3J7_RAT,0.05,9,9,9,Carbamidomethylation; Formylation,1.01E7,9.93E6,1.01:0.99,1.01E7,9.93E6,1.01:0.99,137601,Protein Cntnap4 OS=Rattus norvegicus GN=Cntnap4 PE=4 SV=3
+313,331,tr|A0A0G2JYU3|A0A0G2JYU3_RAT,0.05,3,2,2,,5.1E6,5.03E6,1.01:0.99,5.1E6,5.03E6,1.01:0.99,149574,Protein Astn2 OS=Rattus norvegicus GN=Astn2 PE=4 SV=1
