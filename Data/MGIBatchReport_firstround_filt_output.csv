@@ -1,0 +1,127 @@
+Input,Input.Type,MGI.Gene.Marker.ID,Symbol,Name,Feature.Type,GO.ID,Term,Code
+Tnr,current symbol,MGI:99516,Tnr,tenascin R,protein coding gene,GO:0045121,membrane,IDA
+Fam171a2,current symbol,MGI:2448496,Fam171a2,"family with sequence similarity 171, member A2",protein coding gene,GO:0016020,membrane,IEA
+Vcan,current symbol,MGI:102889,Vcan,versican,protein coding gene,GO:0045202,synapse,ISO
+Plxdc2,current symbol,MGI:1914698,Plxdc2,plexin domain containing 2,protein coding gene,GO:0016020,membrane,IEA
+Cacna1e,current symbol,MGI:106217,Cacna1e,"calcium channel, voltage-dependent, R type, alpha 1E subunit",protein coding gene,GO:0045202,synapse,IBA
+Rims2,current symbol,MGI:2152972,Rims2,regulating synaptic membrane exocytosis 2,protein coding gene,GO:0045202,synapse,ISO
+RGD1306271,rat symbol,MGI:2669829,D630045J12Rik,RIKEN cDNA D630045J12 gene,protein coding gene,GO:0016020,membrane,IEA
+Cacnb1,current symbol,MGI:102522,Cacnb1,"calcium channel, voltage-dependent, beta 1 subunit",protein coding gene,GO:0016020,membrane,IEA
+Prrt3,current symbol,MGI:2444810,Prrt3,proline-rich transmembrane protein 3,protein coding gene,GO:0016020,membrane,IEA
+Lrfn5,current symbol,MGI:2144814,Lrfn5,leucine rich repeat and fibronectin type III domain containing 5,protein coding gene,GO:0016020,membrane,IEA
+Elfn2,current symbol,MGI:3608416,Elfn2,"leucine rich repeat and fibronectin type III, extracellular 2",protein coding gene,GO:0016020,membrane,IEA
+Adgrb2,current symbol,MGI:2451244,Adgrb2,adhesion G protein-coupled receptor B2,protein coding gene,GO:0016020,membrane,IEA
+Thsd7b,current symbol,MGI:2443925,Thsd7b,"thrombospondin, type I, domain containing 7B",protein coding gene,GO:0016020,membrane,IEA
+Fam98a,current symbol,MGI:1919972,Fam98a,"family with sequence similarity 98, member A",protein coding gene,GO:0032418,lysosome,IMP
+Cacng8,current symbol,MGI:1932376,Cacng8,"calcium channel, voltage-dependent, gamma subunit 8",protein coding gene,GO:0045202,synapse,IEA
+Tanc2,current symbol,MGI:2444121,Tanc2,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",protein coding gene,GO:0045202,synapse,IEA
+Lrrc4b,current symbol,MGI:3027390,Lrrc4b,leucine rich repeat containing 4B,protein coding gene,GO:0045202,synapse,IEA
+Itgb8,current symbol,MGI:1338035,Itgb8,integrin beta 8,protein coding gene,GO:0016020,membrane,IEA
+Soga3,current symbol,MGI:1914662,Soga3,SOGA family member 3,protein coding gene,GO:0016020,membrane,IEA
+Slc1a4,current symbol,MGI:2135601,Slc1a4,"solute carrier family 1 (glutamate/neutral amino acid transporter), member 4",protein coding gene,GO:0005813,centrosome,ISO
+Thsd7a,current symbol,MGI:2685683,Thsd7a,"thrombospondin, type I, domain containing 7A",protein coding gene,GO:0016020,membrane,IEA
+Tuba3b,current symbol,MGI:1095408,Tuba3b,"tubulin, alpha 3B",protein coding gene,GO:0015630,cytoskeleton,ISO
+Ap2a2,current symbol,MGI:101920,Ap2a2,"adaptor-related protein complex 2, alpha 2 subunit",protein coding gene,GO:0008021,synaptic vesicle,ISO
+Lrfn4,current symbol,MGI:2385612,Lrfn4,leucine rich repeat and fibronectin type III domain containing 4,protein coding gene,GO:0016020,membrane,IEA
+Lrfn3,current symbol,MGI:2442512,Lrfn3,leucine rich repeat and fibronectin type III domain containing 3,protein coding gene,GO:0045202,synapse,IEA
+Nrxn3,current symbol,MGI:1096389,Nrxn3,neurexin III,protein coding gene,GO:0016020,membrane,IEA
+RGD1559441,rat symbol,MGI:2177151,Cd99l2,CD99 antigen-like 2,protein coding gene,GO:0016020,membrane,IEA
+Ptprg,current symbol,MGI:97814,Ptprg,"protein tyrosine phosphatase, receptor type, G",protein coding gene,GO:0016020,membrane,IEA
+Enpp5,current symbol,MGI:1933830,Enpp5,ectonucleotide pyrophosphatase/phosphodiesterase 5,protein coding gene,GO:0016020,membrane,ISO
+Rims1,current symbol,MGI:2152971,Rims1,regulating synaptic membrane exocytosis 1,protein coding gene,GO:0045202,synapse,IBA
+Plxnc1,current symbol,MGI:1890127,Plxnc1,plexin C1,protein coding gene,GO:0016020,membrane,IEA
+Fam171a1,current symbol,MGI:2442917,Fam171a1,"family with sequence similarity 171, member A1",protein coding gene,GO:0005886,membrane,IBA
+Dchs1,current symbol,MGI:2685011,Dchs1,dachsous cadherin related 1,protein coding gene,GO:0016020,membrane,IEA
+Amer2,current symbol,MGI:1919375,Amer2,APC membrane recruitment 2,protein coding gene,GO:0016020,membrane,IEA
+Sdk2,current symbol,MGI:2443847,Sdk2,sidekick cell adhesion molecule 2,protein coding gene,GO:0045202,synapse,IBA
+Cd47,current symbol,MGI:96617,Cd47,"CD47 antigen (Rh-related antigen, integrin-associated signal transducer)",protein coding gene,GO:0016020,membrane,IEA
+Atp1b1,current symbol,MGI:88108,Atp1b1,"ATPase, Na+/K+ transporting, beta 1 polypeptide",protein coding gene,GO:0016020,membrane,ISO
+Nrxn2,current symbol,MGI:1096362,Nrxn2,neurexin II,protein coding gene,GO:0016020,membrane,IEA
+Ap2b1,current symbol,MGI:1919020,Ap2b1,"adaptor-related protein complex 2, beta 1 subunit",protein coding gene,GO:0098978,synapse,IDA
+Igdcc4,current symbol,MGI:1858497,Igdcc4,"immunoglobulin superfamily, DCC subclass, member 4",protein coding gene,GO:0016020,membrane,IEA
+Shisa7,current symbol,MGI:3605641,Shisa7,shisa family member 7,protein coding gene,GO:0045202,synapse,IEA
+Slc12a5,current symbol,MGI:1862037,Slc12a5,"solute carrier family 12, member 5",protein coding gene,GO:0045202,synapse,IBA
+Psd3,current symbol,MGI:1918215,Psd3,pleckstrin and Sec7 domain containing 3,protein coding gene,GO:0045202,synapse,IEA
+Slc39a10,current symbol,MGI:1914515,Slc39a10,"solute carrier family 39 (zinc transporter), member 10",protein coding gene,GO:0016020,membrane,IEA
+Ptpra,current symbol,MGI:97808,Ptpra,"protein tyrosine phosphatase, receptor type, A",protein coding gene,GO:0016020,membrane,IMP
+Camkv,current symbol,MGI:2384296,Camkv,CaM kinase-like vesicle-associated,protein coding gene,GO:0031410,cytoplasmic vesicle,IEA
+Ptk7,current symbol,MGI:1918711,Ptk7,PTK7 protein tyrosine kinase 7,protein coding gene,GO:0016020,membrane,IDA
+Fam171b,current symbol,MGI:2444579,Fam171b,"family with sequence similarity 171, member B",protein coding gene,GO:0016020,membrane,IEA
+Slc22a23,current symbol,MGI:1920352,Slc22a23,"solute carrier family 22, member 23",protein coding gene,GO:0016020,membrane,IEA
+Pcdh9,current symbol,MGI:1306801,Pcdh9,protocadherin 9,protein coding gene,GO:0005887,membrane,IBA
+Cacna2d3,current symbol,MGI:1338890,Cacna2d3,"calcium channel, voltage-dependent, alpha2/delta subunit 3",protein coding gene,GO:0016020,membrane,IEA
+Edil3,current symbol,MGI:1329025,Edil3,EGF-like repeats and discoidin I-like domains 3,protein coding gene,GO:0005576,extracellular region,IEA
+Sirpa,current symbol,MGI:108563,Sirpa,signal-regulatory protein alpha,protein coding gene,GO:0016020,membrane,ISO
+Megf9,current symbol,MGI:1918264,Megf9,multiple EGF-like-domains 9,protein coding gene,GO:0016020,membrane,IEA
+Gabrb3,current symbol,MGI:95621,Gabrb3,"gamma-aminobutyric acid (GABA) A receptor, subunit beta 3",protein coding gene,GO:0045202,synapse,IBA
+Ednrb,current symbol,MGI:102720,Ednrb,endothelin receptor type B,protein coding gene,GO:0016020,membrane,ISO
+Sorcs3,current symbol,MGI:1913923,Sorcs3,sortilin-related VPS10 domain containing receptor 3,protein coding gene,GO:0016020,membrane,IEA
+Lrfn1,current symbol,MGI:2136810,Lrfn1,leucine rich repeat and fibronectin type III domain containing 1,protein coding gene,GO:0045202,synapse,IEA
+Gpr158,current symbol,MGI:2441697,Gpr158,G protein-coupled receptor 158,protein coding gene,GO:0016020,membrane,IDA
+Plxna2,current symbol,MGI:107684,Plxna2,plexin A2,protein coding gene,GO:0051642,centrosome,IMP
+Plxnb1,current symbol,MGI:2154238,Plxnb1,plexin B1,protein coding gene,GO:0016020,membrane,IEA
+Podxl2,current symbol,MGI:2442488,Podxl2,podocalyxin-like 2,protein coding gene,GO:0016020,membrane,IEA
+Ncan,current symbol,MGI:104694,Ncan,neurocan,protein coding gene,GO:0045202,synapse,ISO
+RGD1563349,rat synonym,MGI:2443264,Elapor2,endosome-lysosome associated apoptosis and autophagy regulator family member 2,protein coding gene,GO:0016020,membrane,IEA
+Negr1,current symbol,MGI:2444846,Negr1,neuronal growth regulator 1,protein coding gene,GO:0016020,membrane,IEA
+Fat4,current symbol,MGI:3045256,Fat4,FAT atypical cadherin 4,protein coding gene,GO:0016020,membrane,IEA
+Fat3,current symbol,MGI:2444314,Fat3,FAT atypical cadherin 3,protein coding gene,GO:0016020,membrane,IEA
+Atrnl1,current symbol,MGI:2147749,Atrnl1,attractin like 1,protein coding gene,GO:0016020,membrane,IEA
+Fras1,current symbol,MGI:2385368,Fras1,Fraser extracellular matrix complex subunit 1,protein coding gene,GO:0016020,membrane,IEA
+Pcdhgc3,current symbol,MGI:1935201,Pcdhgc3,"protocadherin gamma subfamily C, 3",protein coding gene,GO:0016020,membrane,IDA
+Tmem131,current symbol,MGI:1927110,Tmem131,transmembrane protein 131,protein coding gene,GO:0016020,membrane,IBA
+Slc1a3,current symbol,MGI:99917,Slc1a3,"solute carrier family 1 (glial high affinity glutamate transporter), member 3",protein coding gene,GO:0045202,synapse,IDA
+Pacc1,current symbol,MGI:1914200,Pacc1,proton activated chloride channel 1,protein coding gene,GO:0016020,membrane,IEA
+Plppr3,current symbol,MGI:2388640,Plppr3,phospholipid phosphatase related 3,protein coding gene,GO:0016020,membrane,IEA
+Dpp6,current symbol,MGI:94921,Dpp6,dipeptidylpeptidase 6,protein coding gene,GO:0016020,membrane,IDA
+Icam5,current symbol,MGI:109430,Icam5,"intercellular adhesion molecule 5, telencephalin",protein coding gene,GO:0016020,membrane,IEA
+Gabra3,current symbol,MGI:95615,Gabra3,"gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3",protein coding gene,GO:0045202,synapse,IBA
+Itfg1,current symbol,MGI:106419,Itfg1,integrin alpha FG-GAP repeat containing 1,protein coding gene,GO:0016020,membrane,IEA
+Gria3,current symbol,MGI:95810,Gria3,"glutamate receptor, ionotropic, AMPA3 (alpha 3)",protein coding gene,GO:0045202,synapse,IEA
+Itga6,current symbol,MGI:96605,Itga6,integrin alpha 6,protein coding gene,GO:0016020,membrane,IEA
+Adam23,current symbol,MGI:1345162,Adam23,a disintegrin and metallopeptidase domain 23,protein coding gene,GO:0016020,membrane,IEA
+Rpl35,current symbol,MGI:1913739,Rpl35,ribosomal protein L35,protein coding gene,GO:0005840,ribosome,IEA
+Cntnap4,current symbol,MGI:2183572,Cntnap4,contactin associated protein-like 4,protein coding gene,GO:0045202,synapse,IEA
+Pcdh17,current symbol,MGI:2684924,Pcdh17,protocadherin 17,protein coding gene,GO:0098978,synapse,IDA
+Plxnb2,current symbol,MGI:2154239,Plxnb2,plexin B2,protein coding gene,GO:0016020,membrane,IEA
+Gabra1,current symbol,MGI:95613,Gabra1,"gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1",protein coding gene,GO:0045202,synapse,IBA
+Mst1r,current symbol,MGI:99614,Mst1r,macrophage stimulating 1 receptor (c-met-related tyrosine kinase),protein coding gene,GO:0016020,membrane,IEA
+Lingo1,current symbol,MGI:1915522,Lingo1,leucine rich repeat and Ig domain containing 1,protein coding gene,GO:0016020,membrane,IEA
+Lingo3,current symbol,MGI:3609246,Lingo3,leucine rich repeat and Ig domain containing 3,protein coding gene,GO:0016020,membrane,IEA
+Gria4,current symbol,MGI:95811,Gria4,"glutamate receptor, ionotropic, AMPA4 (alpha 4)",protein coding gene,GO:0045202,synapse,IDA
+Slco1c1,zebrafish symbol,MGI:1351891,Slco1a1,"solute carrier organic anion transporter family, member 1a1",protein coding gene,GO:0016020,membrane,IDA
+Lrfn2,current symbol,MGI:1917780,Lrfn2,leucine rich repeat and fibronectin type III domain containing 2,protein coding gene,GO:0045202,synapse,IEA
+Ap2a1,current symbol,MGI:101921,Ap2a1,"adaptor-related protein complex 2, alpha 1 subunit",protein coding gene,GO:0016020,membrane,IEA
+Syngap1,current symbol,MGI:3039785,Syngap1,synaptic Ras GTPase activating protein 1 homolog (rat),protein coding gene,GO:0045202,synapse,ISO
+Atp2b4,current symbol,MGI:88111,Atp2b4,"ATPase, Ca++ transporting, plasma membrane 4",protein coding gene,GO:0098978,synapse,ISO
+Gnao1,current symbol,MGI:95775,Gnao1,"guanine nucleotide binding protein, alpha O",protein coding gene,GO:0016020,membrane,ISO
+Entpd2,current symbol,MGI:1096863,Entpd2,ectonucleoside triphosphate diphosphohydrolase 2,protein coding gene,GO:0016020,membrane,IBA
+Megf10,current symbol,MGI:2685177,Megf10,multiple EGF-like-domains 10,protein coding gene,GO:0016020,membrane,IEA
+Adgrg1,current symbol,MGI:1340051,Adgrg1,adhesion G protein-coupled receptor G1,protein coding gene,GO:0016020,membrane,IEA
+Plxnd1,current symbol,MGI:2154244,Plxnd1,plexin D1,protein coding gene,GO:0016020,membrane,IEA
+Ttyh3,current symbol,MGI:1925589,Ttyh3,tweety family member 3,protein coding gene,GO:0016020,membrane,IEA
+Igsf3,current symbol,MGI:1926158,Igsf3,"immunoglobulin superfamily, member 3",protein coding gene,GO:0016020,membrane,IEA
+Abca13,current symbol,MGI:2388707,Abca13,"ATP-binding cassette, sub-family A (ABC1), member 13",protein coding gene,GO:0031410,cytoplasmic vesicle,IEA
+Lrrtm3,current symbol,MGI:2389177,Lrrtm3,leucine rich repeat transmembrane neuronal 3,protein coding gene,GO:0045202,synapse,IEA
+Islr2,current symbol,MGI:2444277,Islr2,immunoglobulin superfamily containing leucine-rich repeat 2,protein coding gene,GO:0016020,membrane,IEA
+Adgrb3,current symbol,MGI:2441837,Adgrb3,adhesion G protein-coupled receptor B3,protein coding gene,GO:0016020,membrane,IEA
+Omg,current symbol,MGI:106586,Omg,oligodendrocyte myelin glycoprotein,protein coding gene,GO:0016020,membrane,IEA
+Csmd1,current symbol,MGI:2137383,Csmd1,CUB and Sushi multiple domains 1,protein coding gene,GO:0016020,membrane,IEA
+Folh1,current symbol,MGI:1858193,Folh1,folate hydrolase 1,protein coding gene,GO:0016020,membrane,IEA
+Pcdh19,current symbol,MGI:2685563,Pcdh19,protocadherin 19,protein coding gene,GO:0016020,membrane,IEA
+Cacna2d1,current symbol,MGI:88295,Cacna2d1,"calcium channel, voltage-dependent, alpha2/delta subunit 1",protein coding gene,GO:0098978,synapse,ISO
+Krt6a,current symbol,MGI:1100845,Krt6a,keratin 6A,protein coding gene,GO:0005882,intermediate filament,IEA
+Krt79,current symbol,MGI:2385030,Krt79,keratin 79,protein coding gene,GO:0005882,intermediate filament,IEA
+Dpp10,current symbol,MGI:2442409,Dpp10,dipeptidylpeptidase 10,protein coding gene,GO:0016020,membrane,ISO
+Krt2,current symbol,MGI:96699,Krt2,keratin 2,protein coding gene,GO:0001533,cornified envelope,ISO
+Tenm3,current symbol,MGI:1345183,Tenm3,teneurin transmembrane protein 3,protein coding gene,GO:0016020,membrane,IDA
+Xirp1,current symbol,MGI:1333878,Xirp1,xin actin-binding repeat containing 1,protein coding gene,GO:0030054,cell junction,IEA
+Adgrl2,current symbol,MGI:2139714,Adgrl2,adhesion G protein-coupled receptor L2,protein coding gene,GO:0016020,membrane,IEA
+Slc12a9,current symbol,MGI:1933532,Slc12a9,"solute carrier family 12 (potassium/chloride transporters), member 9",protein coding gene,GO:0016020,membrane,IEA
+Grm4,current symbol,MGI:1351341,Grm4,"glutamate receptor, metabotropic 4",protein coding gene,GO:0031410,cytoplasmic vesicle,ISO
+Krt1,current symbol,MGI:96698,Krt1,keratin 1,protein coding gene,GO:0016020,membrane,ISO
+Hs6st2,current symbol,MGI:1354959,Hs6st2,heparan sulfate 6-O-sulfotransferase 2,protein coding gene,GO:0016020,membrane,IEA
+Atp1a4,current symbol,MGI:1351335,Atp1a4,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",protein coding gene,GO:0016020,membrane,IEA
+Mfge8,current symbol,MGI:102768,Mfge8,milk fat globule EGF and factor V/VIII domain containing,protein coding gene,GO:0016020,membrane,IEA
+Ankrd46,current symbol,MGI:1916089,Ankrd46,ankyrin repeat domain 46,protein coding gene,GO:0016020,membrane,IEA
+Ptprj,current symbol,MGI:104574,Ptprj,"protein tyrosine phosphatase, receptor type, J",protein coding gene,GO:0016020,membrane,IDA
